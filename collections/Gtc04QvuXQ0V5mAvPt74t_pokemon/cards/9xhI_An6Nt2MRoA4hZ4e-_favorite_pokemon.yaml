@@ -25,7 +25,8 @@ dataset_query:
         'Scorbunny',
         'Squirtle',
         'Jigglypuff',
-        'Snorlax'
+        'Snorlax',
+        'Charmeleon'
       )
     template-tags: {}
   type: native
