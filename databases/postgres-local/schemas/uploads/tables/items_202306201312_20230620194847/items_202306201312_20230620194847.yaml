@@ -1,0 +1,27 @@
+name: items_202306201312_20230620194847
+display_name: Items 202306201312 20230620194847
+description: null
+created_at: '2025-08-28T19:52:33.097482Z'
+db_id: postgres-local
+schema: uploads
+entity_type: entity/GenericTable
+active: true
+is_upload: false
+field_order: database
+visibility_type: null
+show_in_getting_started: false
+initial_sync_status: complete
+points_of_interest: null
+caveats: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: items_202306201312_20230620194847
+  model: Table
+archived_at: null
+data_authority: unconfigured
+database_require_filter: null
+deactivated_at: null
+is_writable: true

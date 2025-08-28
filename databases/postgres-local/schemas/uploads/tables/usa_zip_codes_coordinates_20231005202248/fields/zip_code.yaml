@@ -1,0 +1,41 @@
+name: zip_code
+display_name: Zip Code
+description: null
+created_at: '2025-08-28T19:52:39.314081Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- usa_zip_codes_coordinates_20231005202248
+database_type: int8
+base_type: type/BigInteger
+effective_type: type/BigInteger
+semantic_type: type/ZipCode
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 0
+custom_position: 0
+database_position: 0
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: usa_zip_codes_coordinates_20231005202248
+  model: Table
+- id: zip_code
+  model: Field
+database_indexed: null
+database_partitioned: null

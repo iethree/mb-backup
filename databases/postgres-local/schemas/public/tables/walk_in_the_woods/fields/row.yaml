@@ -1,0 +1,41 @@
+name: row
+display_name: Row
+description: null
+created_at: '2025-08-28T19:52:35.71243Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- public
+- walk_in_the_woods
+database_type: int4
+base_type: type/Integer
+effective_type: type/Integer
+semantic_type: type/PK
+database_is_auto_increment: true
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 0
+custom_position: 0
+database_position: 0
+has_field_values: null
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: public
+  model: Schema
+- id: walk_in_the_woods
+  model: Table
+- id: row
+  model: Field
+database_indexed: null
+database_partitioned: null

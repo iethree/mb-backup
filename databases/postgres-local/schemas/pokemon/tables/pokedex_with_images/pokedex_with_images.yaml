@@ -1,0 +1,27 @@
+name: pokedex_with_images
+display_name: Pokedex With Images
+description: null
+created_at: '2025-08-28T19:52:31.622902Z'
+db_id: postgres-local
+schema: pokemon
+entity_type: entity/GenericTable
+active: true
+is_upload: false
+field_order: database
+visibility_type: null
+show_in_getting_started: false
+initial_sync_status: complete
+points_of_interest: null
+caveats: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: pokemon
+  model: Schema
+- id: pokedex_with_images
+  model: Table
+archived_at: null
+data_authority: unconfigured
+database_require_filter: null
+deactivated_at: null
+is_writable: true

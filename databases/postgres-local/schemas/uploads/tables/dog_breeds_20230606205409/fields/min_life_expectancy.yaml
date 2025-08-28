@@ -1,0 +1,41 @@
+name: min_life_expectancy
+display_name: Min Life Expectancy
+description: null
+created_at: '2025-08-28T19:52:36.56773Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- dog_breeds_20230606205409
+database_type: int4
+base_type: type/Integer
+effective_type: type/Integer
+semantic_type: null
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 1
+custom_position: 0
+database_position: 1
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: dog_breeds_20230606205409
+  model: Table
+- id: min_life_expectancy
+  model: Field
+database_indexed: null
+database_partitioned: null

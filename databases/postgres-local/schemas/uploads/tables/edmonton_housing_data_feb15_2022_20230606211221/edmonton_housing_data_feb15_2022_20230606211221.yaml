@@ -1,0 +1,27 @@
+name: edmonton_housing_data_feb15_2022_20230606211221
+display_name: Edmonton Housing Data Feb15 2022 20230606211221
+description: null
+created_at: '2025-08-28T19:52:30.034779Z'
+db_id: postgres-local
+schema: uploads
+entity_type: entity/GenericTable
+active: true
+is_upload: false
+field_order: database
+visibility_type: null
+show_in_getting_started: false
+initial_sync_status: complete
+points_of_interest: null
+caveats: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: edmonton_housing_data_feb15_2022_20230606211221
+  model: Table
+archived_at: null
+data_authority: unconfigured
+database_require_filter: null
+deactivated_at: null
+is_writable: true

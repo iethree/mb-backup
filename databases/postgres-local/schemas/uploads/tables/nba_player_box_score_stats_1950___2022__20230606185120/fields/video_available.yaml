@@ -1,0 +1,41 @@
+name: video_available
+display_name: Video Available
+description: null
+created_at: '2025-08-28T19:52:37.7009Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- nba_player_box_score_stats_1950___2022__20230606185120
+database_type: int4
+base_type: type/Integer
+effective_type: type/Integer
+semantic_type: null
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 28
+custom_position: 0
+database_position: 28
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: nba_player_box_score_stats_1950___2022__20230606185120
+  model: Table
+- id: video_available
+  model: Field
+database_indexed: null
+database_partitioned: null

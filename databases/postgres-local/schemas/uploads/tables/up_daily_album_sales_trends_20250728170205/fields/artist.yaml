@@ -1,0 +1,41 @@
+name: artist
+display_name: Artist
+description: null
+created_at: '2025-08-28T19:52:38.919603Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- up_daily_album_sales_trends_20250728170205
+database_type: varchar
+base_type: type/Text
+effective_type: type/Text
+semantic_type: null
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 2
+custom_position: 0
+database_position: 2
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: up_daily_album_sales_trends_20250728170205
+  model: Table
+- id: artist
+  model: Field
+database_indexed: null
+database_partitioned: null

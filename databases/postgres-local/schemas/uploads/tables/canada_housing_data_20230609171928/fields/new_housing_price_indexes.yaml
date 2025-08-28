@@ -1,0 +1,41 @@
+name: new_housing_price_indexes
+display_name: New Housing Price Indexes
+description: null
+created_at: '2025-08-28T19:52:36.467723Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- canada_housing_data_20230609171928
+database_type: varchar
+base_type: type/Text
+effective_type: type/Text
+semantic_type: type/Category
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 3
+custom_position: 0
+database_position: 3
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: canada_housing_data_20230609171928
+  model: Table
+- id: new_housing_price_indexes
+  model: Field
+database_indexed: null
+database_partitioned: null

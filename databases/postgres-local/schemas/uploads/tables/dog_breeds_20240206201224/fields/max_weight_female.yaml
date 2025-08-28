@@ -1,0 +1,41 @@
+name: max_weight_female
+display_name: Max Weight Female
+description: null
+created_at: '2025-08-28T19:52:36.621487Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- dog_breeds_20240206201224
+database_type: float8
+base_type: type/Float
+effective_type: type/Float
+semantic_type: null
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 7
+custom_position: 0
+database_position: 7
+has_field_values: null
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: dog_breeds_20240206201224
+  model: Table
+- id: max_weight_female
+  model: Field
+database_indexed: null
+database_partitioned: null
