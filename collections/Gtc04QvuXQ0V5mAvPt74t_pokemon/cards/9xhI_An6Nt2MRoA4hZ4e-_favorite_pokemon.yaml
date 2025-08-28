@@ -24,7 +24,8 @@ dataset_query:
       SELECT * FROM pokemon.pokedex_with_images WHERE name in (
         'Scorbunny',
         'Squirtle',
-        'Jigglypuff'
+        'Jigglypuff',
+        'Snorlax',
       )
     template-tags: {}
   type: native
