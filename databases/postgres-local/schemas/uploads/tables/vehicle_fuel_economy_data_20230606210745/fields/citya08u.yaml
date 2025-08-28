@@ -1,0 +1,41 @@
+name: citya08u
+display_name: Citya08u
+description: null
+created_at: '2025-08-28T19:52:39.397213Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- vehicle_fuel_economy_data_20230606210745
+database_type: int4
+base_type: type/Integer
+effective_type: type/Integer
+semantic_type: null
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 9
+custom_position: 0
+database_position: 9
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: vehicle_fuel_economy_data_20230606210745
+  model: Table
+- id: citya08u
+  model: Field
+database_indexed: null
+database_partitioned: null

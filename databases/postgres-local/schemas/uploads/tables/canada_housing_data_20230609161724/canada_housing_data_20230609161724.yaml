@@ -1,0 +1,27 @@
+name: canada_housing_data_20230609161724
+display_name: Canada Housing Data 20230609161724
+description: null
+created_at: '2025-08-28T19:52:32.660544Z'
+db_id: postgres-local
+schema: uploads
+entity_type: entity/GenericTable
+active: true
+is_upload: false
+field_order: database
+visibility_type: null
+show_in_getting_started: false
+initial_sync_status: complete
+points_of_interest: null
+caveats: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: canada_housing_data_20230609161724
+  model: Table
+archived_at: null
+data_authority: unconfigured
+database_require_filter: null
+deactivated_at: null
+is_writable: true

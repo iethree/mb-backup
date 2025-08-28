@@ -1,0 +1,27 @@
+name: query_result_2023_08_30t20_20_23_527012z_20230830202106
+display_name: Query Result 2023 08 30t20 20 23 527012z 20230830202106
+description: null
+created_at: '2025-08-28T19:52:31.263355Z'
+db_id: postgres-local
+schema: uploads
+entity_type: entity/GenericTable
+active: true
+is_upload: false
+field_order: database
+visibility_type: null
+show_in_getting_started: false
+initial_sync_status: complete
+points_of_interest: null
+caveats: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: query_result_2023_08_30t20_20_23_527012z_20230830202106
+  model: Table
+archived_at: null
+data_authority: unconfigured
+database_require_filter: null
+deactivated_at: null
+is_writable: true

@@ -1,0 +1,246 @@
+name: Last 1000 prices
+description: null
+entity_id: uoknnURVyO70f8DfWCv7A
+created_at: '2025-08-28T20:36:51.473753Z'
+creator_id: ryan@example.com
+display: table
+archived: false
+collection_id: Gtc04QvuXQ0V5mAvPt74t
+collection_preview: true
+collection_position: null
+query_type: query
+database_id: postgres-local
+table_id:
+- postgres-local
+- pokemon
+- latest_prices
+enable_embedding: false
+embedding_params: null
+made_public_by_id: null
+public_uuid: null
+parameters: []
+parameter_mappings: []
+dataset_query:
+  database: postgres-local
+  query:
+    limit: 1000
+    order-by:
+    - - desc
+      - - field
+        - - postgres-local
+          - pokemon
+          - latest_prices
+          - timestamp
+        - base-type: type/DateTime
+    source-table:
+    - postgres-local
+    - pokemon
+    - latest_prices
+  type: query
+result_metadata:
+- active: true
+  base_type: type/Integer
+  database_type: int4
+  display_name: ID
+  effective_type: type/Integer
+  field_ref:
+  - field
+  - - postgres-local
+    - pokemon
+    - latest_prices
+    - id
+  - null
+  id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  - id
+  name: id
+  position: 0
+  semantic_type: type/PK
+  source: fields
+  table_id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  visibility_type: normal
+  lib/deduplicated-name: id
+  lib/desired-column-alias: id
+  lib/original-display-name: ID
+  lib/original-name: id
+  lib/source: source/table-defaults
+  lib/source-column-alias: id
+  metabase.lib.query/transformation-added-base-type: true
+- active: true
+  base_type: type/Integer
+  database_type: int4
+  display_name: Pokemon ID
+  effective_type: type/Integer
+  field_ref:
+  - field
+  - - postgres-local
+    - pokemon
+    - latest_prices
+    - pokemon_id
+  - null
+  id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  - pokemon_id
+  name: pokemon_id
+  position: 1
+  source: fields
+  table_id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  visibility_type: normal
+  lib/deduplicated-name: pokemon_id
+  lib/desired-column-alias: pokemon_id
+  lib/original-display-name: Pokemon ID
+  lib/original-name: pokemon_id
+  lib/source: source/table-defaults
+  lib/source-column-alias: pokemon_id
+  metabase.lib.query/transformation-added-base-type: true
+- active: true
+  base_type: type/Text
+  database_type: varchar
+  display_name: Pokemon Name
+  effective_type: type/Text
+  field_ref:
+  - field
+  - - postgres-local
+    - pokemon
+    - latest_prices
+    - pokemon_name
+  - null
+  id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  - pokemon_name
+  name: pokemon_name
+  position: 2
+  source: fields
+  table_id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  visibility_type: normal
+  lib/deduplicated-name: pokemon_name
+  lib/desired-column-alias: pokemon_name
+  lib/original-display-name: Pokemon Name
+  lib/original-name: pokemon_name
+  lib/source: source/table-defaults
+  lib/source-column-alias: pokemon_name
+  metabase.lib.query/transformation-added-base-type: true
+- active: true
+  base_type: type/Decimal
+  database_type: numeric
+  display_name: Price
+  effective_type: type/Decimal
+  field_ref:
+  - field
+  - - postgres-local
+    - pokemon
+    - latest_prices
+    - price
+  - null
+  id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  - price
+  name: price
+  position: 3
+  source: fields
+  table_id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  visibility_type: normal
+  lib/deduplicated-name: price
+  lib/desired-column-alias: price
+  lib/original-display-name: Price
+  lib/original-name: price
+  lib/source: source/table-defaults
+  lib/source-column-alias: price
+  metabase.lib.query/transformation-added-base-type: true
+- active: true
+  base_type: type/DateTime
+  database_type: timestamp
+  display_name: Timestamp
+  effective_type: type/DateTime
+  field_ref:
+  - field
+  - - postgres-local
+    - pokemon
+    - latest_prices
+    - timestamp
+  - null
+  id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  - timestamp
+  name: timestamp
+  position: 4
+  source: fields
+  table_id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  visibility_type: normal
+  lib/deduplicated-name: timestamp
+  lib/desired-column-alias: timestamp
+  lib/original-display-name: Timestamp
+  lib/original-name: timestamp
+  lib/source: source/table-defaults
+  lib/source-column-alias: timestamp
+  metabase.lib.query/transformation-added-base-type: true
+- active: true
+  base_type: type/Integer
+  database_type: int4
+  display_name: Volume
+  effective_type: type/Integer
+  field_ref:
+  - field
+  - - postgres-local
+    - pokemon
+    - latest_prices
+    - volume
+  - null
+  id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  - volume
+  name: volume
+  position: 5
+  source: fields
+  table_id:
+  - postgres-local
+  - pokemon
+  - latest_prices
+  visibility_type: normal
+  lib/deduplicated-name: volume
+  lib/desired-column-alias: volume
+  lib/original-display-name: Volume
+  lib/original-name: volume
+  lib/source: source/table-defaults
+  lib/source-column-alias: volume
+  metabase.lib.query/transformation-added-base-type: true
+visualization_settings:
+  column_settings: null
+card_schema: 22
+serdes/meta:
+- id: uoknnURVyO70f8DfWCv7A
+  label: last_1000_prices
+  model: Card
+archived_directly: false
+dashboard_id: null
+document_id: null
+metabase_version: v1.57.1-SNAPSHOT (b77b153)
+source_card_id: null
+type: question

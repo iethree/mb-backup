@@ -1,0 +1,41 @@
+name: stockcode
+display_name: Stockcode
+description: null
+created_at: '2025-08-28T19:52:37.897452Z'
+active: true
+visibility_type: normal
+table_id:
+- postgres-local
+- uploads
+- online_retail_20230629165438
+database_type: varchar
+base_type: type/Text
+effective_type: type/Text
+semantic_type: null
+database_is_auto_increment: false
+database_required: false
+fk_target_field_id: null
+dimensions: []
+json_unfolding: false
+parent_id: null
+coercion_strategy: null
+preview_display: true
+position: 1
+custom_position: 0
+database_position: 1
+has_field_values: auto-list
+settings: null
+caveats: null
+points_of_interest: null
+nfc_path: null
+serdes/meta:
+- id: postgres-local
+  model: Database
+- id: uploads
+  model: Schema
+- id: online_retail_20230629165438
+  model: Table
+- id: stockcode
+  model: Field
+database_indexed: null
+database_partitioned: null
