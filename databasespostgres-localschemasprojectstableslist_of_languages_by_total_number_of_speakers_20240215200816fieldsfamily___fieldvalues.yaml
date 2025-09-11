@@ -1,0 +1,30 @@
+values:
+- Afro-Asiatic
+- Austroasiatic
+- Austronesian
+- Dravidian
+- English Creole
+- Indo-European
+- Japonic
+- Koreanic
+- Kra–Dai
+- Niger–Congo
+- Sino-Tibetan
+- Turkic
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: list_of_languages_by_total_number_of_speakers_20240215200816
+- model: Field
+  id: family
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-15T20:08:18.148148Z'
+last_used_at: '2024-02-15T20:08:18.148148Z'
+type: full

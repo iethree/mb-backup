@@ -1,0 +1,21 @@
+description:
+  format-string: Executes transforms tagged with ''hourly'' every hour
+  args: []
+  pluralization-opts: {}
+built_in_type: hourly
+schedule: 0 0 * * * ? *
+name:
+  format-string: Hourly job
+  args: []
+  pluralization-opts: {}
+updated_at: '2025-08-18T19:20:41.120288Z'
+serdes/meta:
+- model: TransformJob
+  id: RognTgBT2fXaxoQh4ws7z
+  label: hourly_job
+entity_id: RognTgBT2fXaxoQh4ws7z
+tag_associations:
+- entity_id: RognTgBT2fXaxoQh4ws7z
+  position: 0
+  tag_id: wYLcUPbtF7jVPO0duGGHR
+created_at: '2025-08-18T19:20:41.120288Z'

@@ -1,0 +1,73 @@
+values:
+- 0
+- 49
+- 50
+- 56
+- 58
+- 62
+- 63
+- 64
+- 65
+- 67
+- 69
+- 70
+- 71
+- 72
+- 73
+- 74
+- 75
+- 76
+- 77
+- 78
+- 79
+- 80
+- 81
+- 82
+- 83
+- 84
+- 85
+- 86
+- 87
+- 88
+- 89
+- 90
+- 91
+- 92
+- 93
+- 94
+- 95
+- 96
+- 97
+- 98
+- 99
+- 100
+- 101
+- 102
+- 103
+- 104
+- 105
+- 106
+- 107
+- 108
+- 110
+- 124
+- 125
+- 195
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: vehicle_fuel_economy_data_20230606210745
+- model: Field
+  id: hpv
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:42.177332Z'
+last_used_at: '2023-08-21T20:32:42.177332Z'
+type: full

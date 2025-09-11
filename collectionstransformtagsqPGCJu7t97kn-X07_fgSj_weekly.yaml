@@ -1,0 +1,12 @@
+name:
+  format-string: weekly
+  args: []
+  pluralization-opts: {}
+entity_id: qPGCJu7t97kn-X07_fgSj
+built_in_type: weekly
+serdes/meta:
+- model: TransformTag
+  id: qPGCJu7t97kn-X07_fgSj
+  label: weekly
+created_at: '2025-08-18T19:20:41.114708Z'
+updated_at: '2025-08-18T19:20:41.114708Z'

@@ -1,0 +1,22 @@
+values:
+- LcU-6IrUkIa8dJ7qyQXXZ
+- m5wPOIMB-9l5cVdnvyn5P
+- pHKLU0_cW9Cj-JWuteHZm
+- Tq8aSNDs66PMYOh3hW8v3
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: report_dashboardcard
+- model: Field
+  id: entity_id
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:43.529885Z'
+last_used_at: '2023-08-23T00:46:43.529885Z'
+type: full

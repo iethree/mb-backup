@@ -1,0 +1,19 @@
+values:
+- 142
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_2024_09_17_20241018140035
+- model: Field
+  id: set_printed_total
+- model: FieldValues
+  id: '0'
+created_at: '2024-10-18T14:00:38.528947Z'
+last_used_at: '2024-10-18T14:00:38.528947Z'
+type: full

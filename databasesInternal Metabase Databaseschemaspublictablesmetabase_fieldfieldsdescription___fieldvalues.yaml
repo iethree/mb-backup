@@ -1,0 +1,281 @@
+values:
+- A JSON object describing the flavor and version of the DBMS.
+- Anti-CSRF token for full-app embed sessions.
+- A program to take an api response and transform to an appropriate response for emitters
+- A program to take an api response to determine if an error occurred
+- A strategy to coerce the base_type into the effective_type.
+- A template that defines method,url,body,headers required to make an api call
+- A unique identifier given to each user.
+- A unique internal identifier for the review. Should not be used externally.
+- Average execution time for the query, round to nearest number of milliseconds. This is updated as a rolling average.
+- Boolean flag to indicate if the dataset info modal has been dismissed.
+- Boolean flag to indicate whether user is a group's manager.
+- Boolean value indicating if the timeline is the default one for the containing Collection
+- Cache hit on query execution
+- Condition (i.e. "rows" or "goal") used as a guard for alerts
+- Cookie-based unique identifier for the device/browser the user logged in from.
+- creation time
+- Description of the device that login happened from, for example a user-agent string, but this might be something different if we support alternative auth mechanisms in the future.
+- Directory-structure path of ancestor Collections. e.g. "/1/2/" means our Parent is Collection 2, and their parent is Collection 1.
+- Discount amount.
+- Displayed name of the tab
+- either a document or question ID; the item that needs review
+- Either internal for a user defined remapping or external for a foreign key based remapping
+- Enable/disable JSON unfolding for a field
+- Error message from persisting if applicable
+- Error message returned by failed query, if any.
+- Explanation of the review
+- For a goal condition, alert when above the goal
+- Granular cache TTL for specific dashboard.
+- Granular cache TTL for specific database.
+- Hash key for a cached fieldvalues
+- Hash of the query persisted
+- Has this pulse been archived?
+- ID of the admin who added the database
+- ID of the Card bookmarked by the user
+- ID of the card generating the values
+- ID of the Card model persisted
+- ID of the Card (Question) to be used to replace the Table.
+- ID of the collection containing the timeline
+- ID of the Dashboard bookmarked by the user
+- ID of the Dashboard favorited by the User.
+- ID of the Dashboard if this Pulse is a Dashboard Subscription.
+- ID of the database associated to the persisted card
+- ID of the database this connection impersonation policy affects
+- ID of the database this query was ran against.
+- ID of the entity consuming the values
+- ID of the field this dimension row applies to
+- id of the item being bookmarked (Card, Collection, Dashboard, ...) no FK, so may no longer exist
+- ID of the permissions group this connection impersonation policy affects
+- ID of the Permissions Group this policy affects.
+- ID of the Session created by this login if one is currently active. NULL if Session is no longer active.
+- ID of the Snippet Folder (Collection) this Snippet is in, if any
+- ID of the Table that should get automatically replaced as query source for the Permissions Group.
+- ID of the timeline containing the event
+- ID of the User that logged in.
+- ID of the User who bookmarked the Card
+- ID of the User who bookmarked the Collection
+- ID of the User who bookmarked the Dashboard
+- ID of the user who created the event
+- ID of the user who created the timeline
+- ID of the user who did the review
+- ID of the User who favorited the Dashboard.
+- ID of the User who ordered bookmarks
+- If set, this Collection is a personal Collection, for exclusive use of the User with this ID.
+- If this Pulse is a Dashboard subscription, the ID of the DashboardCard that corresponds to this PulseCard.
+- Indicates this field is auto incremented
+- Indicates this field is required by the database for new records. Usually not null and without a default.
+- Indicate whether question is a dataset
+- Indicate whether the time component matters or if the timestamp should just serve to indicate the day of the event without any time associated to it.
+- Indicating whether the card should be visualized in the collection preview
+- Indicating whether the persisted table is active and can be swapped
+- IP address of the device that login happened from, so we can geocode it and determine approximate location.
+- Is this Card allowed to be embedded in different websites (using a signed JWT)?
+- Is this Dashboard allowed to be embedded in different websites (using a signed JWT)?
+- Is this Dashboard archived (effectively treated as deleted?)
+- JSON-encoded map of user attribute identifier to the param name used in the Card.
+- JSON object that captures the state of the table when we persisted
+- JSON serialized map with attributes used for row level permissions
+- JSON string with additional info on the task
+- Let dashboard subscriptions have their own filters
+- List of parameter associated to a card
+- most recent modification time
+- Name of the event
+- Name of the query snippet
+- Name of the table persisted
+- Name of the task
+- Name of the timeline
+- Nested field column paths, flattened
+- Nullable column to incidate collection's authority level. Initially values are "official" and nil.
+- Number of products bought.
+- Number of rows in the query results.
+- Only the app db, visible to admins via auditing should have this set true.
+- Only used with external type remappings. Indicates which field on the FK related table to use for display
+- Optional description for this Collection.
+- Optional description of the timeline
+- Optional ID of Collection this Card belongs to.
+- Optional ID of Collection this Dashboard belongs to.
+- Optional markdown description of the event
+- Optional pinned position for this item in its Collection. NULL means item is not pinned.
+- Options ID of Collection this Pulse belongs to.
+- order of bookmark for user
+- Part of composite primary key for secret; this is the uniquely generted ID column
+- Part of composite primary key for secret; this is the version column
+- Persisted table state (creating, persisted, refreshing, deleted)
+- Position of the tab with respect to others tabs in dashboard
+- Preferred ISO locale (language/country) code, e.g "en" or "en-US", for this User. Overrides site default.
+- Random NanoID tag for unique identity.
+- Raw query snippet
+- Serialized JSON containing Database-local Settings for this Database
+- Serialized JSON containing information about required parameters that must be supplied when embedding this Card.
+- Serialized JSON containing information about required parameters that must be supplied when embedding this Dashboard.
+- Serialized JSON containing metadata about the result columns from running the query.
+- Serialized JSON containing non-identifying information about this Field, such as min, max, and percent JSON. Used for classification.
+- Serialized JSON containing User-local Settings for this User
+- Serialized JSON corresponding to metadata for view.
+- Serialized JSON FE-specific settings like formatting, etc. Scope of what is stored here may increase in future.
+- Serialized JSON of the label field ref.
+- Serialized JSON of the primary key field ref.
+- Seven-character hex color for this Collection, including the preceding hash sign.
+- Short description used as the display name of this new column
+- Short string specifying how this query was executed, e.g. in a Dashboard or Pulse.
+- Skip a scheduled Pulse if none of its questions have any results
+- Sluggified version of the Collection name. Used only for display purposes in URL; not unique or indexed.
+- Slug of the card which will form the persisted table name
+- String indicating whether a database has completed its initial sync and is ready to use
+- String indicating whether a table has completed its initial sync and is ready to use
+- String to indicate the SSO backend the user is from
+- tag for most recent review
+- The actual "query dictionary" for this query.
+- The actual type of this column in the database. e.g. VARCHAR or TEXT.
+- The associated action
+- The associated database
+- The associated model
+- The average rating users have given the product. This ranges from 1 - 5
+- The base64 encoded binary value of this secret record. If encryption is enabled, this will be the output of the encryption procedure on the plaintext. If not, it will be the base64 encoded plaintext.
+- 'The channel through which we acquired this user. Valid values include: Affiliate, Facebook, Google, Organic and Twitter'
+- The city of the account’s billing address
+- The contact email for the account.
+- The cron schedule for when value syncing should happen.
+- The cron schedule string for when FieldValues for eligible Fields should be updated.
+- The cron schedule string for when this database should undergo the metadata sync process (and analysis for new fields).
+- The dashboard that a tab is on
+- The date and time an order was submitted.
+- The date of birth of the user
+- The date the product was added to our catalog.
+- The date the user record was created. Also referred to as the user’s "join date"
+- The day and time a review was written by a user.
+- The description of the action
+- The effective type of the field after any coercions.
+- The error message if the status is error.
+- The hash of the query dictionary. This is a 256-bit SHA3 hash of the query.
+- The hash of the query dictionary. (This is a 256-bit SHA3 hash of the query dict.)
+- the icon to use when displaying the event
+- The ID of the action associated with this query execution, if any.
+- The ID of the Card (Question) associated with this query execution, if any.
+- The ID of the corresponding permissions path for this sandbox
+- The ID of the Dashboard associated with this query execution, if any.
+- The ID of the indexed model.
+- The ID of the Pulse associated with this query execution, if any.
+- The ID of the User who first publically shared this Action.
+- The ID of the User who first publically shared this Card.
+- The ID of the User who first publically shared this Dashboard.
+- The id of the user who made this order. Note that in some cases where an order was created on behalf of a customer who phoned the order in, this might be the employee who handled the request.
+- The ID of the User who triggered this query execution, if any.
+- The international article number. A 13 digit number uniquely identifying the product.
+- The kind of implicit action create/update/delete
+- 'The kind of secret this record represents; the value is interpreted as a Clojure keyword with a hierarchy. Ex: ''bytes'' means generic binary data, ''jks-keystore'' extends ''bytes'' but has a specific meaning.'
+- The label to display identifying the indexed value.
+- The list price of the product. Note that this is not always the price the product sold for due to discounts, promotions, etc.
+- The maximum time, in seconds, to return cached results for this Card rather than running a new query.
+- The MBQL writeback query
+- The name of the action
+- The name of the product as it should be displayed to customers.
+- The name of the user who owns an account
+- The name of this secret record.
+- The namespace (hierachy) this Collection belongs to. NULL means the Collection is in the default namespace.
+- The numerical product number. Only used internally. All external communication should use the title or EAN.
+- The parameter ID
+- The person who persisted a model
+- The position this Dashboard should appear in the Dashboards list, lower-numbered positions appearing before higher numbered ones.
+- The postal code of the account’s billing address
+- The primary key of the indexed value
+- The product ID. This is an internal identifier for the product, NOT the SKU.
+- The product the review was for
+- The rating (on a scale of 1-5) the user left.
+- The raw, pre-tax cost of the order. Note that this might be different in the future from the product price due to promotions, credits, etc.
+- The referenced tab id that dashcard is on, it's nullable for dashboard with no tab
+- The related action
+- The review the user left. Limited to 2000 characters.
+- The saved parameter mappings for this action
+- The saved parameters for this action
+- 'The source of secret record, which controls how Metabase interprets the value (ex: ''file-path'' means the ''simple_value'' is not the real value, but a pointer to a file that contains the value).'
+- The source of the product.
+- The state or province of the account’s billing address
+- 'The status of the index: initializing, indexed, error, overflow.'
+- The street address of the account’s billing address
+- The time, in milliseconds, this query took to complete.
+- The timestamp at which the tab was created
+- The timestamp at which the tab was last updated
+- The timestamp of when the action was created
+- The timestamp of when the action was updated
+- The timestamp of when the bookmark was created
+- The timestamp of when the dimension was created.
+- The timestamp of when the event was created
+- The timestamp of when the event was modified
+- The timestamp of when the model was first persisted
+- The timestamp of when the most recent refresh ended
+- The timestamp of when the most recent refresh was started
+- The timestamp of when the most recent state changed
+- The timestamp of when these changes were made.
+- The timestamp of when these dimension was last updated.
+- The timestamp of when the timeline was created
+- The timestamp of when the timeline was updated
+- The total billed amount.
+- 'The type of product, valid values include: Doohicky, Gadget, Gizmo and Widget'
+- The UI visualization_settings for this action
+- The user-facing name of this Collection.
+- The user who created the action
+- The user who left the review
+- The version of the fingerprint for this Field. Used so we can keep track of which Fields need to be analyzed again when new things are added to fingerprints.
+- This is a unique ID for the product. It is also called the “Invoice number” or “Confirmation number” in customer facing emails and screens.
+- This is the amount of local and federal taxes that are collected on the purchase. Note that other governmental fees on some products are not included here, but instead are accounted for in the subtotal.
+- This is the latitude of the user on sign-up. It might be updated in the future to the last seen location.
+- This is the longitude of the user on sign-up. It might be updated in the future to the last seen location.
+- This is the salted password of the user. It should not be visible
+- This is used to differentiate instance-analytics collections from all other collections.
+- Timestamp for when this secret instance was created
+- Timestamp for when this secret record was updated. Only relevant when non-value field changes since a value change will result in a new version being inserted.
+- Timestamp of when these FieldValues were last used.
+- Timestamp of when this Collection was created.
+- Timestamp of when this query started running.
+- Timezone identifier for the database, set by the sync process
+- Timezone to display the underlying UTC timestamp in for the client
+- True if a CSV of the data should be included for this pulse card
+- True if a XLS of the data should be included for this pulse card
+- True if the alert should be disabled after the first notification
+- true if the stored values list is a subset of all possible values
+- Type of action
+- Type of FieldValues
+- type of the Bookmark
+- Type of the entity consuming the values (dashboard, card, etc.)
+- Unique UUID used to in publically-accessible links to this Action.
+- Unique UUID used to in publically-accessible links to this Card.
+- Unique UUID used to in publically-accessible links to this Dashboard.
+- User attribute associated with the database role to use for this connection impersonation policy
+- User ID who created this secret instance
+- verified, misleading, confusing, not_misleading, pending
+- Was the table created from user-uploaded (i.e., from a CSV) data?
+- When the event happened
+- When the status changed
+- When this login occurred.
+- When was this User last updated?
+- whether it's a question or dashboard
+- Whether or not the action has been archived
+- Whether or not the event has been archived
+- Whether or not the timeline has been archived
+- Whether or not to auto-apply filters on a dashboard
+- Whether or not to enable periodic refingerprinting for this Database.
+- Whether the query was a native query, as opposed to an MBQL one (e.g., created with the GUI).
+- Whether this Collection has been archived and should be hidden from users.
+- Whether to automatically run queries when doing simple filtering and summarizing in the Query Builder.
+- Whether we have FieldValues ("list"), should ad-hoc search ("search"), disable entirely ("none"), or infer dynamically (null)"
+- Whether we should do On-Demand caching of FieldValues for this DB. This means FieldValues are updated when their Field is used in a Dashboard or Card param.
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_field
+- model: Field
+  id: description
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:42.649954Z'
+last_used_at: '2023-08-23T00:46:42.649954Z'
+type: full

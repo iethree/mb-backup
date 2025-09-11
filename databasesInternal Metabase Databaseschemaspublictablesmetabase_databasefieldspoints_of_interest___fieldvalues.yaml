@@ -1,0 +1,20 @@
+values:
+- You can find all sorts of different joinable tables ranging from products to people to reviews here.
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_database
+- model: Field
+  id: points_of_interest
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:40.779426Z'
+last_used_at: '2023-08-23T00:46:40.779426Z'
+type: full

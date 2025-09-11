@@ -1,0 +1,169 @@
+values:
+- Ancient Origins
+- Aquapolis
+- Arceus
+- Astral Radiance
+- Astral Radiance Trainer Gallery
+- Base
+- Base Set 2
+- Battle Styles
+- Best of Game
+- Black & White
+- Boundaries Crossed
+- BREAKpoint
+- BREAKthrough
+- Brilliant Stars
+- Brilliant Stars Trainer Gallery
+- Burning Shadows
+- BW Black Star Promos
+- Call of Legends
+- Celebrations
+- 'Celebrations: Classic Collection'
+- Celestial Storm
+- Champion's Path
+- Chilling Reign
+- Cosmic Eclipse
+- Crimson Invasion
+- Crown Zenith
+- Crown Zenith Galarian Gallery
+- Crystal Guardians
+- Dark Explorers
+- Darkness Ablaze
+- Delta Species
+- Deoxys
+- Detective Pikachu
+- Diamond & Pearl
+- Double Crisis
+- DP Black Star Promos
+- Dragon
+- Dragon Frontiers
+- Dragon Majesty
+- Dragons Exalted
+- Dragon Vault
+- Emerald
+- Emerging Powers
+- Evolutions
+- Evolving Skies
+- Expedition Base Set
+- EX Trainer Kit 2 Minun
+- EX Trainer Kit 2 Plusle
+- EX Trainer Kit Latias
+- EX Trainer Kit Latios
+- Fates Collide
+- FireRed & LeafGreen
+- Flashfire
+- Forbidden Light
+- Fossil
+- Furious Fists
+- Fusion Strike
+- Generations
+- Great Encounters
+- Guardians Rising
+- Gym Challenge
+- Gym Heroes
+- HeartGold & SoulSilver
+- HGSS Black Star Promos
+- Hidden Fates
+- Hidden Legends
+- Holon Phantoms
+- HS—Triumphant
+- HS—Undaunted
+- HS—Unleashed
+- Jungle
+- Kalos Starter Set
+- Legendary Collection
+- Legendary Treasures
+- Legend Maker
+- Legends Awakened
+- Lost Origin
+- Lost Origin Trainer Gallery
+- Lost Thunder
+- Majestic Dawn
+- McDonald's Collection 2011
+- McDonald's Collection 2012
+- McDonald's Collection 2014
+- McDonald's Collection 2015
+- McDonald's Collection 2016
+- McDonald's Collection 2017
+- McDonald's Collection 2018
+- McDonald's Collection 2019
+- McDonald's Collection 2021
+- McDonald's Collection 2022
+- Mysterious Treasures
+- Neo Destiny
+- Neo Discovery
+- Neo Genesis
+- Neo Revelation
+- Next Destinies
+- Nintendo Black Star Promos
+- Noble Victories
+- Phantom Forces
+- Plasma Blast
+- Plasma Freeze
+- Plasma Storm
+- Platinum
+- Pokémon Futsal Collection
+- Pokémon GO
+- Pokémon Rumble
+- POP Series 1
+- POP Series 2
+- POP Series 3
+- POP Series 4
+- POP Series 5
+- POP Series 6
+- POP Series 7
+- POP Series 8
+- POP Series 9
+- Power Keepers
+- Primal Clash
+- Rebel Clash
+- Rising Rivals
+- Roaring Skies
+- Ruby & Sapphire
+- Sandstorm
+- Scarlet & Violet
+- Scarlet & Violet Black Star Promos
+- Secret Wonders
+- Shining Fates
+- Shining Legends
+- Shiny Vault
+- Silver Tempest
+- Silver Tempest Trainer Gallery
+- Skyridge
+- SM Black Star Promos
+- Southern Islands
+- Steam Siege
+- Stormfront
+- Sun & Moon
+- Supreme Victors
+- Sword & Shield
+- SWSH Black Star Promos
+- Team Magma vs Team Aqua
+- Team Rocket
+- Team Rocket Returns
+- Team Up
+- Ultra Prism
+- Unbroken Bonds
+- Unified Minds
+- Unseen Forces
+- Vivid Voltage
+- Wizards Black Star Promos
+- XY
+- XY Black Star Promos
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_20230627221310
+- model: Field
+  id: set_name
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:07.787026Z'
+last_used_at: '2023-08-21T20:32:07.787026Z'
+type: full

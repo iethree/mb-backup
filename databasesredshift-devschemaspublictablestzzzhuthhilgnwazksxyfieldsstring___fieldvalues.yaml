@@ -1,0 +1,20 @@
+values:
+- '           b'
+- '          a '
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: public
+- model: Table
+  id: tzzzhuthhilgnwazksxy
+- model: Field
+  id: string
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-08T18:02:15.620878Z'
+last_used_at: '2024-02-08T18:02:15.620878Z'
+type: full

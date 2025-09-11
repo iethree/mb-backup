@@ -1,0 +1,36 @@
+values:
+- '11'
+- '12'
+- '13'
+- '18'
+- '19'
+- '20'
+- '25'
+- '26'
+- '27'
+- '4'
+- '5'
+- '6'
+- DECEMBER
+- JUNE
+- MARCH
+- S
+- SEPTEMBER
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: sample_1_tsv_20240327173850
+- model: Field
+  id: unnamed_column_18
+- model: FieldValues
+  id: '0'
+created_at: '2024-03-27T17:38:53.741826Z'
+last_used_at: '2024-03-27T17:38:53.741826Z'
+type: full

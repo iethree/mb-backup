@@ -1,0 +1,23 @@
+values:
+- 43xuO7MIZiF6RWugCxcwT
+- E9nr03tNa6KDwfbVVxo2l
+- qNlnFJQl0o0PVt9P4oNua
+- vPTwAr_a9dUUUcCXvGXFZ
+- xSX0LOKnhsXQZrP1HiQK9
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: segment
+- model: Field
+  id: entity_id
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-10T01:00:04.298714Z'
+last_used_at: '2023-10-10T01:00:04.298714Z'
+type: full

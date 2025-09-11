@@ -1,0 +1,27 @@
+values:
+- Note that employees and customer support staff will have accounts.
+- Not every account feels inclined to submit feedback. That’s cool. There’s still quite a few responses here.
+- Piespace has cracked time travel, so keep in mind that some events may have already happened in the future.
+- Piespace’s business operates with a two week trial period. If you see that “Canceled At” is null then that account is still happily paying for their pies.
+- The rating column is an integer from 1-5 where 1 is dreadful and 5 is the best thing ever.
+- These reviews aren't tied to orders so it is possible people have reviewed products they did not purchase from us.
+- You can group by “Account ID” to see all the payments from an account and unveil information like total amount paid to date.
+- You can join this on the Products and Orders table using the ID fields. Discount is left null if not applicable.
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_table
+- model: Field
+  id: caveats
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:44.674684Z'
+last_used_at: '2023-08-23T01:01:44.674684Z'
+type: full

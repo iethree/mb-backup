@@ -1,0 +1,30 @@
+values:
+- metabase.task.follow_up_emails.FollowUpEmail
+- metabase.task.index_values.ModelIndexRefresh
+- metabase.task.persist_refresh.PersistencePrune
+- metabase.task.persist_refresh.PersistenceRefresh
+- metabase.task.refresh_slack_channel_user_cache.RefreshCache
+- metabase.task.send_anonymous_stats.SendAnonymousUsageStats
+- metabase.task.send_pulses.SendPulses
+- metabase.task.sync_databases.SyncAndAnalyzeDatabase
+- metabase.task.sync_databases.UpdateFieldValues
+- metabase.task.task_history_cleanup.TaskHistoryCleanup
+- metabase.task.truncate_audit_log.TruncateAuditLog
+- metabase.task.upgrade_checks.CheckForNewVersions
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: qrtz_job_details
+- model: Field
+  id: job_class_name
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:45.067532Z'
+last_used_at: '2023-08-23T01:01:45.067532Z'
+type: full

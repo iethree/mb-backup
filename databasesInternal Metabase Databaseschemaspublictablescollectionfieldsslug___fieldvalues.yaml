@@ -1,0 +1,30 @@
+values:
+- a_look_at_pokemon_cards
+- audit_custom_reports
+- automatically_generated_dashboards
+- customer_data
+- custom_reports
+- instance_analytics
+- limited_mcuserson_s_personal_collection
+- performance_custom_reports
+- pokemon
+- ryan_mctesterson_s_personal_collection
+- uploads
+- usage_custom_reports
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: collection
+- model: Field
+  id: slug
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:41.836975Z'
+last_used_at: '2023-08-23T00:46:41.836975Z'
+type: full

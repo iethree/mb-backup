@@ -1,0 +1,21 @@
+values:
+- 4VVmllfW-oSD_MkKxg-Lj
+- F19872bu2g5UZIFvhpaDE
+- lurEwbWcIHyaHav_Z5dwp
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: action
+- model: Field
+  id: entity_id
+- model: FieldValues
+  id: '0'
+created_at: '2023-11-11T01:00:06.231411Z'
+last_used_at: '2023-11-11T01:00:06.231411Z'
+type: full

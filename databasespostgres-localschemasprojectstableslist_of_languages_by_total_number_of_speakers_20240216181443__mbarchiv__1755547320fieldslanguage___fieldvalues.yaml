@@ -1,0 +1,63 @@
+values:
+- Algerian Spoken Arabic
+- Amharic
+- Bengali
+- Bhojpuri
+- Burmese
+- Eastern Punjabi(excl. Western Punjabi)
+- Egyptian Spoken Arabic(excl. other Arabic dialects)
+- English(excl. creole languages)
+- French
+- Gujarati
+- Hakka Chinese
+- Hausa
+- Hindi(excl. Urdu)
+- Indonesian(excl. Malay)
+- Iranian Persian(excl. Dari and Tajik)
+- Italian
+- Japanese
+- Javanese
+- Jin Chinese
+- Kannada
+- Korean
+- Lingala
+- Mandarin Chinese(incl. Standard Chinese, but excl. other varieties)
+- Marathi
+- Min Nan Chinese(incl. Hokkien)
+- Modern Standard Arabic(excl. dialects)
+- Nigerian Pidgin
+- Polish
+- Portuguese
+- Russian
+- Spanish
+- Standard German
+- Sudanese Spoken Arabic
+- Swahili
+- Tagalog[b]
+- Tamil
+- Telugu
+- Thai
+- Turkish
+- Urdu(excl. Hindi)
+- Vietnamese
+- Western Punjabi(excl. Eastern Punjabi)
+- Wu Chinese(incl. Shanghainese)
+- Yoruba
+- Yue Chinese(incl. Cantonese)
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: list_of_languages_by_total_number_of_speakers_20240216181443__mbarchiv__1755547320
+- model: Field
+  id: language
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-16T18:14:44.268036Z'
+last_used_at: '2024-02-16T18:14:44.268036Z'
+type: full

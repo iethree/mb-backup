@@ -1,0 +1,69 @@
+values:
+- '{"deleted":0}'
+- '{"errors":0,"created":0,"updated":0,"deleted":0}'
+- '{"errors":0,"created":1580,"updated":0,"deleted":75}'
+- '{"errors":0,"created":233,"updated":0,"deleted":2}'
+- '{"errors":0,"created":24,"updated":0,"deleted":1}'
+- '{"fields-classified":0,"fields-failed":0}'
+- '{"fields-classified":2551,"fields-failed":0}'
+- '{"fields-classified":265,"fields-failed":0}'
+- '{"fields-classified":63,"fields-failed":0}'
+- '{"flavor":"H2","version":"2.1.214 (2022-06-13)","semantic-version":[2,1]}'
+- '{"flavor":"PostgreSQL","version":"15.3 (Debian 15.3-1.pgdg110+1)","semantic-version":[15,3]}'
+- '{"no-data-fingerprints":0,"failed-fingerprints":0,"updated-fingerprints":0,"fingerprints-attempted":0}'
+- '{"no-data-fingerprints":0,"failed-fingerprints":0,"updated-fingerprints":2551,"fingerprints-attempted":2551}'
+- '{"no-data-fingerprints":0,"failed-fingerprints":0,"updated-fingerprints":63,"fingerprints-attempted":63}'
+- '{"no-data-fingerprints":240,"failed-fingerprints":0,"updated-fingerprints":0,"fingerprints-attempted":240}'
+- '{"no-data-fingerprints":240,"failed-fingerprints":0,"updated-fingerprints":265,"fingerprints-attempted":505}'
+- '{"timezone-id":"America/Denver"}'
+- '{"timezone-id":"UTC"}'
+- '{"total-fields":2562,"updated-fields":0}'
+- '{"total-fields":2562,"updated-fields":2562}'
+- '{"total-fields":2576,"updated-fields":0}'
+- '{"total-fields":2601,"updated-fields":0}'
+- '{"total-fields":2630,"updated-fields":0}'
+- '{"total-fields":633,"updated-fields":0}'
+- '{"total-fields":633,"updated-fields":633}'
+- '{"total-fields":71,"updated-fields":0}'
+- '{"total-fields":71,"updated-fields":71}'
+- '{"total-fks":0,"updated-fks":0,"total-failed":0}'
+- '{"total-fks":102,"updated-fks":0,"total-failed":0}'
+- '{"total-fks":102,"updated-fks":102,"total-failed":0}'
+- '{"total-fks":6,"updated-fks":0,"total-failed":0}'
+- '{"total-fks":6,"updated-fks":6,"total-failed":0}'
+- '{"total-tables":156,"tables-classified":0}'
+- '{"total-tables":156,"tables-classified":156}'
+- '{"total-tables":160,"tables-classified":0}'
+- '{"total-tables":162,"tables-classified":0}'
+- '{"total-tables":165,"tables-classified":0}'
+- '{"total-tables":72,"tables-classified":0}'
+- '{"total-tables":72,"tables-classified":67}'
+- '{"total-tables":8,"tables-classified":0}'
+- '{"total-tables":8,"tables-classified":8}'
+- '{"updated-tables":0,"total-tables":156}'
+- '{"updated-tables":0,"total-tables":160}'
+- '{"updated-tables":0,"total-tables":162}'
+- '{"updated-tables":0,"total-tables":165}'
+- '{"updated-tables":0,"total-tables":78}'
+- '{"updated-tables":0,"total-tables":8}'
+- '{"updated-tables":156,"total-tables":0}'
+- '{"updated-tables":78,"total-tables":0}'
+- '{"updated-tables":8,"total-tables":0}'
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: task_history
+- model: Field
+  id: task_details
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:46.093983Z'
+last_used_at: '2023-08-23T01:01:46.093983Z'
+type: full

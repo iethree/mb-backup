@@ -1,0 +1,20 @@
+values:
+- false
+- true
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: v_users
+- model: Field
+  id: is_admin
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:40.334998Z'
+last_used_at: '2023-10-17T19:31:18.567979Z'
+type: full

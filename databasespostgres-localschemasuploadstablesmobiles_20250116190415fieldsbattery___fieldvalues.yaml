@@ -1,0 +1,149 @@
+values:
+- 0 0 0 0 Processor Processor
+- 0 0 0 208MHz Processor
+- 1000 mAh Battery
+- 1000 mAh Li-ion Battery
+- 1000 mAh Lithium Ion Battery
+- 1020 mAh Lithium-ion Battery
+- 1100 mAh Battery
+- 1150 mAh Lithium Ion Battery
+- 1200 mAh Battery
+- 1200 mAh Lithium-ion Battery
+- 1200 mAh Lithium Ion Battery
+- 12+1 Month Warranty
+- 12+1 Month Warranty* (Special Offer- T&C Apply)
+- 12 Month
+- 12 Months Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-box Accessories Including Batteries from the Date of Purchase
+- 1450 mAh Battery
+- 1450 mAh Lithium Ion Battery
+- 1500 mAh Battery
+- 1600 mAh Li-ion Battery
+- 1700 mAh Battery
+- 1750 mAh Battery
+- 1800 mAh Battery
+- 1800 mAh Li-Ion Battery
+- 1800 mAh Lithium-ion Battery
+- 1800 mAh Lithium Ion Battery
+- 1900 mAh Battery
+- 1900 mAh Lithium ion Battery
+- 1 Year Company Warranty
+- 1 Year for Mobile & 6 Months for Accessories
+- 1 Year Manufacturer warranty
+- 1 Year Manufacturer Warranty
+- 1 Year Manufacturer Warranty for Device
+- 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase
+- 1 year manufacture warranty
+- 1 Year Warranty
+- 2500 mAh Battery
+- 2500 mAh Li-ion Battery
+- 2500 mAh Lithium ion Battery
+- 2500 mAh Lithium-ion Battery
+- 2502 mAh Battery
+- 2575 mAh Li-ion Battery
+- 2700 mAh Battery
+- 2750 mAh Battery
+- 2 Year Replacement
+- 3000 mAh Battery
+- 3000 mAh Li-ion Battery
+- 3000 mAh Li Polymer Battery
+- 3000 mAh Lithium-ion Battery
+- 3000 mAh Lithium Polymer Battery
+- 3020 mAh Battery
+- 3300 mAh Lithium-ion Battery
+- 3700 mAh Battery
+- 3700 mAh Lithium-ion Battery
+- 3900 mAh Lithium Ion Battery
+- 4000 mAh Battery
+- 4000 mAh Li-Polymer Battery
+- 4000 mAh Lithium-ion Battery
+- 400 mAh Battery
+- 4020 mAh Lithium Battery
+- 4050 mAh Lithium Battery
+- 4060 mAh Battery
+- 4200 mAh Lithium Battery
+- 4230 mAh Battery
+- 4250 mAh Battery
+- 4250 mAh Li-Polymer Battery
+- 4270 mAh Battery
+- 4310 mAh Lithium-ion Polymer Battery
+- 4400 mAh Lithium Battery
+- 4410 mAh Battery
+- 4500 mAh Battery
+- 4500 mAh Li-ion Battery
+- 4500 mAh Li-Polymer Battery
+- 4500 mAh Lithium-ion Battery
+- 4500 mAh Lithium-ion Polymer Battery
+- 4610 mAh Lithium Battery
+- 4700 mAh Battery
+- 4700 mAh Lithium Battery
+- 4700 mAh Lithium Ion Battery
+- 4800 mAh Lithium-ion Polymer Battery
+- 4800 mAh Lithium Polymer Battery
+- 4926 mAh Battery
+- 4980 mAh Lithium Polymer Battery
+- 5000 mAh Battery
+- 5000 mAh Li-ion Battery
+- 5000 mAh Li-Ion Battery
+- 5000 mAh Li-ion Polymer Battery
+- 5000 mAh LiPo Battery
+- 5000 mAh Li-Polymer Battery
+- 5000 mAh Lithium Battery
+- 5000 mAh Lithium Battery Battery
+- 5000 mAh Lithium ion Battery
+- 5000 mAh Lithium-ion Battery
+- 5000 mAh Lithium Ion Battery
+- 5000 mAh Lithium-Ion Battery
+- 5000 mAh Lithium-ion Polymer Battery
+- 5000 mAh Lithium Ion Polymer Battery
+- 5000 mAh Lithium-Ploymer Battery
+- 5000 mAh Lithium polymer Battery
+- 5000 mAh Lithium Polymer Battery
+- 5020 mAh Battery
+- 5020 mAh Li-Polymer Battery
+- 5050 mAh Lithium Polymer Battery
+- 5080 mAh Battery
+- 5200 mAh Li-ion Polymer Battery
+- 6000 mAh Battery
+- 6000 mAh Li-ion Polymer Battery
+- 6000 mAh Li-Polymer Battery
+- 6000 mAh Lithium-ion Battery
+- 6000 mAh Lithium Ion Battery
+- 6000 mAh Lithium-ion Polymer Battery
+- 6000 mAh Lithium Polymer Battery
+- 600 mAh Battery
+- 620 mAh Li-ion Battery
+- 7000 mAh Battery
+- 700 mAh Battery
+- 7 Days Battery Backup with 1200mAh with Super Battery Mode
+- 800 mAh Battery
+- 800 mAh Li-ion Battery
+- 800 mAh Li-Ion Battery
+- 800 mAh Lithium Ion Battery
+- 850 mAh Battery
+- A13 Bionic Chip Processor
+- A14 Bionic Chip with Next Generation Neural Engine Processor
+- A15 Bionic Chip, 6 Core Processor Processor
+- A15 Bionic Chip Processor
+- A16 Bionic Chip, 6 Core Processor Processor
+- Brand Warranty of 1 Year Available for Mobile
+- MediaTek Processor
+- One Year domestic warranty against manufacturing defects
+- One Year Manufacture Warranty
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: mobiles_20250116190415
+- model: Field
+  id: battery
+- model: FieldValues
+  id: '0'
+created_at: '2025-01-16T19:04:16.135255Z'
+last_used_at: '2025-01-16T19:04:16.135255Z'
+type: full

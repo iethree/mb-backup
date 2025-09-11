@@ -1,0 +1,133 @@
+values:
+- Astral Radiance
+- Astral Radiance Trainer Gallery
+- Battle Styles
+- Black & White
+- Black & White—Boundaries Crossed
+- Black & White—Dark Explorers
+- Black & White—Dragons Exalted
+- Black & White—Emerging Powers
+- Black & White—Legendary Treasures
+- Black & White—Next Destinies
+- Black & White—Noble Victories
+- Black & White—Plasma Blast
+- Black & White—Plasma Freeze
+- Black & White—Plasma Storm
+- Brilliant Stars
+- Brilliant Stars Trainer Gallery
+- Burning Shadows
+- BW—Promo
+- Call of Legends
+- Celebrations
+- 'Celebrations: Classic Collection'
+- Celestial Storm
+- Champion’s Path
+- Chilling Reign
+- Cosmic Eclipse
+- Crimson Invasion
+- Crown Zenith
+- Crown Zenith Galarian Gallery
+- Darkness Ablaze
+- Detective Pikachu
+- Diamond & Pearl
+- Diamond & Pearl—Great Encounters
+- Diamond & Pearl—Legends Awakened
+- Diamond & Pearl—Majestic Dawn
+- Diamond & Pearl—Mysterious Treasures
+- Diamond & Pearl—Secret Wonders
+- Diamond & Pearl—Stormfront
+- Double Crisis
+- Dragon Majesty
+- Dragon Vault
+- Energy
+- Evolving Skies
+- EX Crystal Guardians
+- EX Delta Species
+- EX Deoxys
+- EX Dragon
+- EX Dragon Frontiers
+- EX Emerald
+- EX Fire Red & Leaf Green
+- EX Hidden Legends
+- EX Holon Phantoms
+- EX Legend Maker
+- EX Power Keepers
+- EX Ruby & Sapphire
+- EX Sandstorm
+- EX Team Magma vs. Team Aqua
+- EX Team Rocket Returns
+- EX Unseen Forces
+- Forbidden Light
+- Fusion Strike
+- Generations
+- HeartGold & SoulSilver
+- Hidden Fates
+- HS—Promo
+- HS—Triumphant
+- HS—Undaunted
+- HS—Unleashed
+- Lost Origin
+- Lost Origin Trainer Gallery
+- Lost Thunder
+- Platinum
+- Platinum Arceus
+- Platinum—Rising Rivals
+- Platinum—Supreme Victors
+- 'Pokémon TCG: Pokémon GO'
+- POP Series 1
+- POP Series 2
+- POP Series 3
+- POP Series 4
+- POP Series 5
+- POP Series 6
+- POP Series 7
+- POP Series 8
+- POP Series 9
+- Rebel Clash
+- Shining Fates
+- 'Shining Fates: Shiny Vault'
+- Shining Legends
+- Silver Tempest
+- 'Silver Tempest: Trainer Gallery'
+- SM—Guardians Rising
+- Sun & Moon
+- Sun & Moon Promo
+- Sword & Shield
+- Sword & Shield Promo
+- Team Up
+- Ultra Prism
+- Unbroken Bonds
+- Unified Minds
+- Vivid Voltage
+- XY
+- XY—Ancient Origins
+- XY—BREAKpoint
+- XY–BREAKthrough
+- XY—Evolutions
+- XY—Fates Collide
+- XY—Flashfire
+- XY—Furious Fists
+- XY—Kalos Starter Set
+- XY—Phantom Forces
+- XY—Primal Clash
+- XY—Promo
+- XY—Roaring Skies
+- XY—Steam Siege
+- Yellow A Alternate
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_20230620160551
+- model: Field
+  id: expansion
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:33:12.626141Z'
+last_used_at: '2023-08-21T20:33:12.626141Z'
+type: full

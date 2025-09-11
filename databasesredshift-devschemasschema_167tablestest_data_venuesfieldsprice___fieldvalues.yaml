@@ -1,0 +1,22 @@
+values:
+- 1
+- 2
+- 3
+- 4
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: schema_167
+- model: Table
+  id: test_data_venues
+- model: Field
+  id: price
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-08T18:01:16.931726Z'
+last_used_at: '2024-02-08T18:01:16.931726Z'
+type: full

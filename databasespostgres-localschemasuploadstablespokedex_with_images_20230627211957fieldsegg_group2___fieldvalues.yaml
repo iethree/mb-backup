@@ -1,0 +1,32 @@
+values:
+- Amorphous
+- Bug
+- Dragon
+- Fairy
+- Flying
+- Grass
+- Ground
+- Human-Like
+- Mineral
+- Monster
+- Water1
+- Water2
+- Water3
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokedex_with_images_20230627211957
+- model: Field
+  id: egg_group2
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:31:57.992847Z'
+last_used_at: '2023-08-21T20:31:57.992847Z'
+type: full

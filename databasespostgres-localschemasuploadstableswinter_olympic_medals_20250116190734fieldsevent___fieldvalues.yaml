@@ -1,0 +1,101 @@
+values:
+- 10000M
+- 1000M
+- 10KM
+- 10KM Pursuit
+- 12.5KM Mass Start
+- 12.5Km Pursuit
+- 1500M
+- 15KM
+- 15KM Mass Start
+- 18KM
+- 20KM
+- 3000M
+- 3000M Relay
+- 30KM
+- 30KM Mass Start
+- 3X5KM Relay
+- 4X10KM Relay
+- 4X5KM Relay
+- 4X6KM Relay
+- 4X7.5KM Relay
+- 5000M
+- 5000M Relay
+- 500M
+- 50KM
+- 5KM
+- 5Km Pursuit
+- 7.5KM
+- Aerials
+- Alpine Combined
+- Combined 10KM + 15KM Pursuit
+- Combined 15+15K
+- Combined 15 + 15KM Mass Start
+- Combined (4 Events)
+- Combined 5KM + 10KM Pursuit
+- Combined7.5+7.5
+- Combined 7.5 + 7.5Km Mass Start
+- Curling
+- Doubles
+- Downhill
+- Five-Man
+- Four-Man
+- Giant Parallel Slalom
+- Giant Parall.S.
+- Giant Slalom
+- Giant-Slalom
+- Half-Pipe
+- Ice Dancing
+- Ice Hockey
+- Individual
+- Individual, Ski Jumping K90 (70M)
+- Individual Sprint
+- Ind. K90 (70M)
+- K120 Individual (90M)
+- K120 Team (90M)
+- K90 Individual
+- K90 Individual (70M)
+- Large Hill
+- Military Patrol
+- Mixed Relay
+- Moguls
+- Normal Hill
+- Pairs
+- Parallel Slalom
+- Relay Mix
+- Singles
+- Ski Cross
+- Ski Halfpipe
+- Ski Slopestyle
+- Slalom
+- Slopestyle
+- Snowboard Cross
+- Sprint
+- Sprint 1.5KM
+- Sprint K120
+- Super Combined
+- Super-G
+- Team
+- Team, 4X5 KM
+- Team Pursuit
+- Teams
+- Team Sprint
+- Two-Man
+- Two-Woman
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: winter_olympic_medals_20250116190734
+- model: Field
+  id: event
+- model: FieldValues
+  id: '0'
+created_at: '2025-01-16T19:07:35.113633Z'
+last_used_at: '2025-01-16T19:07:35.113633Z'
+type: full

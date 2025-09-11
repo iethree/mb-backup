@@ -1,0 +1,33 @@
+values:
+- Argentina
+- Brazil
+- Chile
+- England
+- France
+- Germany
+- Italy
+- Korea/Japan
+- Mexico
+- South Africa
+- Spain
+- Sweden
+- Switzerland
+- Uruguay
+- USA
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: worldcups_20231004143041
+- model: Field
+  id: country
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-04T14:30:42.373186Z'
+last_used_at: '2023-10-04T14:30:42.373186Z'
+type: full

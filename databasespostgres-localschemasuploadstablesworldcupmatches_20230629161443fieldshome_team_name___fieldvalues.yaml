@@ -1,0 +1,97 @@
+values:
+- Algeria
+- Angola
+- Argentina
+- Australia
+- Austria
+- Belgium
+- Bolivia
+- Brazil
+- Bulgaria
+- Cameroon
+- Canada
+- Chile
+- China PR
+- Colombia
+- Costa Rica
+- Croatia
+- Cuba
+- Czechoslovakia
+- Czech Republic
+- C�te d'Ivoire
+- Denmark
+- Ecuador
+- England
+- France
+- German DR
+- Germany
+- Germany FR
+- Ghana
+- Greece
+- Haiti
+- Honduras
+- Hungary
+- Iran
+- Iraq
+- IR Iran
+- Italy
+- Jamaica
+- Japan
+- Korea DPR
+- Korea Republic
+- Mexico
+- Morocco
+- Netherlands
+- New Zealand
+- Nigeria
+- Northern Ireland
+- Norway
+- Paraguay
+- Peru
+- Poland
+- Portugal
+- rn">Bosnia and Herzegovina
+- rn">Republic of Ireland
+- rn">Serbia and Montenegro
+- rn">Trinidad and Tobago
+- rn">United Arab Emirates
+- Romania
+- Russia
+- Saudi Arabia
+- Scotland
+- Senegal
+- Serbia
+- Slovakia
+- Slovenia
+- South Africa
+- Soviet Union
+- Spain
+- Sweden
+- Switzerland
+- Togo
+- Tunisia
+- Turkey
+- Ukraine
+- Uruguay
+- USA
+- Wales
+- Yugoslavia
+- Zaire
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: worldcupmatches_20230629161443
+- model: Field
+  id: home_team_name
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:53.952073Z'
+last_used_at: '2023-08-21T20:32:53.952073Z'
+type: full

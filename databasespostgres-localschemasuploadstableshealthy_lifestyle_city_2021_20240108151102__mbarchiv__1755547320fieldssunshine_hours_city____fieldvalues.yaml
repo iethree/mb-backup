@@ -1,0 +1,58 @@
+values:
+- '-'
+- '1405'
+- '1453'
+- '1546'
+- '1566'
+- '1626'
+- '1630'
+- '1633'
+- '1662'
+- '1776'
+- '1821'
+- '1836'
+- '1858'
+- '1877'
+- '1884'
+- '1901'
+- '1915'
+- '1938'
+- '2003'
+- '2066'
+- '2218'
+- '2363'
+- '2508'
+- '2525'
+- '2528'
+- '2535'
+- '2555'
+- '2584'
+- '2591'
+- '2624'
+- '2634'
+- '2636'
+- '2671'
+- '2769'
+- '2983'
+- '3062'
+- '3124'
+- '3254'
+- '3311'
+- '3542'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: healthy_lifestyle_city_2021_20240108151102__mbarchiv__1755547320
+- model: Field
+  id: sunshine_hours_city_
+- model: FieldValues
+  id: '0'
+created_at: '2024-01-08T15:11:04.086878Z'
+last_used_at: '2024-01-08T15:11:04.086878Z'
+type: full

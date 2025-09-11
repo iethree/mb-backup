@@ -1,0 +1,21 @@
+values:
+- '[{"id":"790575449","type":"category","name":"Expanded Legal","slug":"expanded_legal"},{"id":"1860700513","type":"category","name":"Regulation Mark","slug":"regulation_mark"},{"id":"1316908725","type":"category","name":"Standard Legal","slug":"standard_legal"},{"id":"1115555055","type":"category","name":"Supertype","slug":"supertype"}]'
+- '[{"name":"Date Filter","slug":"date_filter","id":"9112df7d","type":"date/all-options","sectionId":"date","default":"past52weeks"},{"name":"User Group","slug":"user_group","id":"ab0252fc","type":"string/=","sectionId":"string","isMultiSelect":false,"default":["All Users"]}]'
+- '[{"name":"User ID","slug":"user_id","id":"6b3da96f","type":"id","sectionId":"id","isMultiSelect":false,"filteringParameters":["50670f9e"]},{"name":"User Name","slug":"user_name","id":"4a221c3a","type":"string/=","sectionId":"string","isMultiSelect":false,"filteringParameters":["50670f9e"]},{"name":"User Email","slug":"user_email","id":"d53443e8","type":"string/=","sectionId":"string","isMultiSelect":false,"filteringParameters":["50670f9e"]},{"name":"Is Active?","slug":"is_active%3F","id":"50670f9e","type":"string/=","sectionId":"string","default":[true],"isMultiSelect":false}]'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: report_dashboard
+- model: Field
+  id: parameters
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:43.491369Z'
+last_used_at: '2023-08-23T00:46:43.491369Z'
+type: full

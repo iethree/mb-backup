@@ -1,0 +1,67 @@
+values:
+- Alderaan
+- Aleen Minor
+- Bespin
+- Bestine IV
+- Cato Neimoidia
+- Cerea
+- Champala
+- Chandrila
+- Concord Dawn
+- Corellia
+- Coruscant
+- Dathomir
+- Dorin
+- Endor
+- Eriadu
+- Geonosis
+- Glee Anselm
+- Haruun Kal
+- Iktotch
+- Iridonia
+- Kalee
+- Kamino
+- Kashyyyk
+- Malastare
+- Mirial
+- Mon Cala
+- Muunilinst
+- Naboo
+- Nal Hutta
+- Ojom
+- Quermia
+- Rodia
+- Ryloth
+- Serenno
+- Shili
+- Skako
+- Socorro
+- Stewjon
+- Sullust
+- Tatooine
+- Toydaria
+- Trandosha
+- Troiken
+- Tund
+- Umbara
+- unknown
+- Utapau
+- Vulpter
+- Zolan
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: star_wars_characters_20231213220956__mbarchiv__1755547320
+- model: Field
+  id: homeworld
+- model: FieldValues
+  id: '0'
+created_at: '2023-12-13T22:09:58.122787Z'
+last_used_at: '2024-01-08T15:24:40.464429Z'
+type: full

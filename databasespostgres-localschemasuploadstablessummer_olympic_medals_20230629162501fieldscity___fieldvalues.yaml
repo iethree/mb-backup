@@ -1,0 +1,40 @@
+values:
+- Amsterdam
+- Antwerp
+- Athens
+- Atlanta
+- Barcelona
+- Beijing
+- Berlin
+- Helsinki
+- London
+- Los Angeles
+- Melbourne / Stockholm
+- Mexico
+- Montreal
+- Moscow
+- Munich
+- Paris
+- Rome
+- Seoul
+- St Louis
+- Stockholm
+- Sydney
+- Tokyo
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: summer_olympic_medals_20230629162501
+- model: Field
+  id: city
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:55.953379Z'
+last_used_at: '2023-08-21T20:32:55.953379Z'
+type: full

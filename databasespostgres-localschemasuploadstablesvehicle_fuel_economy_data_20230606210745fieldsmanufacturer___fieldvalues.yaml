@@ -1,0 +1,160 @@
+values:
+- Acura
+- Alfa Romeo
+- American Motors Corporation
+- AM General
+- ASC Incorporated
+- Aston Martin
+- Audi
+- Aurora Cars Ltd
+- Autokraft Limited
+- Avanti Motor Corporation
+- Azure Dynamics
+- Bentley
+- Bertone
+- Bill Dovell Motor Car Company
+- Bitter Gmbh and Co. Kg
+- BMW
+- BMW Alpina
+- Bugatti
+- Buick
+- BYD
+- Cadillac
+- CCC Engineering
+- Chevrolet
+- Chrysler
+- CODA Automotive
+- Consulier Industries Inc
+- CX Automotive
+- Dabryan Coach Builders Inc
+- Dacia
+- Daewoo
+- Daihatsu
+- Dodge
+- Eagle
+- Environmental Rsch and Devp Corp
+- E. P. Dutton
+- Evans Automobiles
+- Excalibur Autos
+- Federal Coach
+- Ferrari
+- Fiat
+- Fisker
+- Ford
+- General Motors
+- Genesis
+- Geo
+- GMC
+- Goldacre
+- Grumman Allied Industries
+- Grumman Olson
+- Honda
+- Hummer
+- Hyundai
+- Import Foreign Auto Sales Inc
+- Import Trade Services
+- Infiniti
+- Isis Imports Ltd
+- Isuzu
+- Jaguar
+- JBA Motorcars
+- Jeep
+- J.K. Motors
+- Kandi
+- Karma
+- Kenyon Corporation Of America
+- Kia
+- Koenigsegg
+- Laforza Automobile Inc
+- Lambda Control Systems
+- Lamborghini
+- Land Rover
+- Lexus
+- Lincoln
+- London Coach Co Inc
+- London Taxi
+- Lordstown
+- Lotus
+- Lucid
+- Mahindra
+- Maserati
+- Maybach
+- Mazda
+- Mcevoy Motors
+- McLaren Automotive
+- Mercedes-Benz
+- Mercury
+- Merkur
+- MINI
+- Mitsubishi
+- Mobility Ventures LLC
+- Morgan
+- Nissan
+- Oldsmobile
+- Pagani
+- Panos
+- Panoz Auto-Development
+- Panther Car Company Limited
+- PAS
+- PAS Inc - GMC
+- Peugeot
+- Pininfarina
+- Plymouth
+- Polestar
+- Pontiac
+- Porsche
+- Quantum Technologies
+- Qvale
+- Ram
+- Red Shift Ltd.
+- Renault
+- Rivian
+- Rolls-Royce
+- Roush Performance
+- RUF Automobile
+- Ruf Automobile Gmbh
+- Saab
+- Saleen
+- Saleen Performance
+- S and S Coach Company  E.p. Dutton
+- Saturn
+- Scion
+- Shelby
+- smart
+- Spyker
+- SRT
+- Sterling
+- STI
+- Subaru
+- Superior Coaches Div E.p. Dutton
+- Suzuki
+- Tecstar
+- Tesla
+- Texas Coach Company
+- Toyota
+- TVR Engineering Ltd
+- Vector
+- Vixen Motor Company
+- Volga Associated Automobile
+- Volkswagen
+- Volvo
+- VPG
+- Wallace Environmental
+- Yugo
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: vehicle_fuel_economy_data_20230606210745
+- model: Field
+  id: manufacturer
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:41.297775Z'
+last_used_at: '2023-08-21T20:32:41.297775Z'
+type: full

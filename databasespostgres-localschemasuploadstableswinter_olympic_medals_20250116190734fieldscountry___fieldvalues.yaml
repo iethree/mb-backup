@@ -1,0 +1,63 @@
+values:
+- AUS
+- AUT
+- BEL
+- BLR
+- BUL
+- CAN
+- CHN
+- CRO
+- CZE
+- DEN
+- ESP
+- EST
+- EUA
+- EUN
+- FIN
+- FRA
+- FRG
+- GBR
+- GDR
+- GER
+- HUN
+- ITA
+- JPN
+- KAZ
+- KOR
+- LAT
+- LIE
+- LUX
+- NED
+- NOR
+- NZL
+- POL
+- PRK
+- ROU
+- RUS
+- SLO
+- SUI
+- SVK
+- SWE
+- TCH
+- UKR
+- URS
+- USA
+- UZB
+- YUG
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: winter_olympic_medals_20250116190734
+- model: Field
+  id: country
+- model: FieldValues
+  id: '0'
+created_at: '2025-01-16T19:07:35.35349Z'
+last_used_at: '2025-01-16T19:07:35.35349Z'
+type: full

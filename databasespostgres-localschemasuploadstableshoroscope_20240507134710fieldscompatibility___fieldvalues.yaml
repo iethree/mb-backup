@@ -1,0 +1,30 @@
+values:
+- Aquarius
+- Aries
+- Cancer
+- Capricorn
+- Gemini
+- Leo
+- Libra
+- Pisces
+- Sagittarius
+- Scorpio
+- Taurus
+- Virgo
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: horoscope_20240507134710
+- model: Field
+  id: compatibility
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-07T13:47:11.798841Z'
+last_used_at: '2024-05-07T13:47:11.798841Z'
+type: full

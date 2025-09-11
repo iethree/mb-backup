@@ -1,0 +1,20 @@
+values:
+- 🌳
+- 🏃‍♀️️
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: public
+- model: Table
+  id: walk_in_the_woods
+- model: Field
+  id: '3'
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:05.622809Z'
+last_used_at: '2023-08-21T20:32:05.622809Z'
+type: full

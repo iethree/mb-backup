@@ -1,0 +1,29 @@
+values:
+- dashboard_1
+- dashboard_11
+- dashboard_12
+- dashboard_13
+- dashboard_14
+- dashboard_2
+- dashboard_3
+- dashboard_4
+- dashboard_5
+- dashboard_8
+- dashboard_9
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: v_dashboardcard
+- model: Field
+  id: dashboard_id
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-30T21:29:29.412736Z'
+last_used_at: '2023-11-10T16:49:20.562699Z'
+type: full

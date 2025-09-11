@@ -1,0 +1,67 @@
+values:
+- AK
+- AL
+- AR
+- AZ
+- CA
+- CO
+- CT
+- DE
+- FL
+- GA
+- IA
+- ID
+- IL
+- IN
+- KS
+- KY
+- LA
+- MA
+- MD
+- ME
+- MI
+- MN
+- MO
+- MS
+- MT
+- NC
+- ND
+- NE
+- NH
+- NJ
+- NM
+- NV
+- NY
+- OH
+- OK
+- OR
+- PA
+- RI
+- SC
+- SD
+- TN
+- TX
+- UT
+- VA
+- VT
+- WA
+- WI
+- WV
+- WY
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: 2024_09_02_26a61dba_cb15_47ca_b739_ae76d59c22a5_schema
+- model: Table
+  id: test_data_people
+- model: Field
+  id: state
+- model: FieldValues
+  id: '0'
+created_at: '2024-09-03T18:00:07.230232Z'
+last_used_at: '2024-09-03T18:00:07.230232Z'
+type: full

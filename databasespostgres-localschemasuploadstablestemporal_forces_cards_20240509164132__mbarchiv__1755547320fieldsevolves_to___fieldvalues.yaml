@@ -1,0 +1,55 @@
+values:
+- Arbok
+- Azumarill
+- Beheeyem
+- Boltund
+- Breloom
+- Bronzong
+- Carkol
+- Charjabug
+- Cinccino
+- Coalossal
+- Duosion
+- Electivire
+- Excadrill
+- Frosmoth
+- Gengar
+- Golurk
+- Grotle
+- Haunter
+- Lickilicky
+- Lycanroc
+- Medicham
+- Melmetal
+- Metagross
+- Metang
+- Mightyena
+- Mudsdale
+- Noctowl
+- Reuniclus
+- Ribombee
+- Roserade
+- Sawsbuck
+- Torracat
+- Torterra
+- Tranquill
+- Unfezant
+- Vikavolt
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: temporal_forces_cards_20240509164132__mbarchiv__1755547320
+- model: Field
+  id: evolves_to
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-09T16:41:35.546306Z'
+last_used_at: '2024-05-09T16:41:35.546306Z'
+type: full

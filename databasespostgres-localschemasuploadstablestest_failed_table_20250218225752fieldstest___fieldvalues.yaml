@@ -1,0 +1,77 @@
+values:
+- metabase > scenarios > navbar > new menu > collection opens modal and redirects to a created collection after saving
+- metabase > scenarios > navbar > new menu > question item opens question notebook editor
+- metabase > scenarios > navbar > new menu > question item opens SQL query editor
+- nav > what's new notification > it should show the notification for other users after one user dismissed it
+- nav > what's new notification > should show a notification with a link to the release notes, and allow the dismissal of it
+- scenarios > dashboard > filters > date > correctly serializes exclude filter on non-English locales (metabase#29122)
+- scenarios > dashboard > filters > date > should show sub-day resolutions in relative date filter (metabase#6660)
+- scenarios > dashboard > filters > date > should support being required
+- scenarios > dashboard > filters > date > should work when set as the default filter
+- scenarios > dashboard > filters > date > should work when set through the filter widget
+- scenarios > dashboard > filters > ID > should work for the foreign key > when set as the default filter
+- scenarios > dashboard > filters > ID > should work for the foreign key > when set through the filter widget
+- scenarios > dashboard > filters > ID > should work for the primary key > when set as the default filter
+- scenarios > dashboard > filters > ID > should work for the primary key > when set through the filter widget
+- scenarios > dashboard > filters > ID > should work on the implicit join > when set as the default filter
+- scenarios > dashboard > filters > ID > should work on the implicit join > when set through the filter widget
+- scenarios > dashboard > parameters > matrix > a parameter (single dropdown search large Is card) where the admin field setting is search should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single dropdown search large Is connected) where the admin field setting is search should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single dropdown search small Is card) where the admin field setting is search should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single dropdown search small Is connected) where the admin field setting is search should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search list large Contains card) where the admin field setting is list should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search list large Contains custom) where the admin field setting is list should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search list small Contains card) where the admin field setting is list should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search list small Contains custom) where the admin field setting is list should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain large Contains card) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain large Contains connected) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain large Contains custom) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain large Is card) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain large Is connected) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain large Is custom) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain small Contains card) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain small Contains connected) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain small Contains custom) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain small Is card) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain small Is connected) where the admin field setting is plain should render token-field
+- scenarios > dashboard > parameters > matrix > a parameter (single search plain small Is custom) where the admin field setting is plain should render token-field
+- scenarios > question > new > add to a dashboard > creating a new dashboard > when a dashboard is currently selected
+- scenarios > question > new > add to a dashboard > creating a new dashboard > when selecting a collection
+- scenarios > question > new > add to a dashboard > creating a new dashboard > when selecting a collection with no child dashboards (metabase#47000)
+- scenarios > question > new > add to a dashboard > should hide public collections when selecting a dashboard for a question in a personal collection
+- scenarios > question > new > add to a dashboard > should show all collections when selecting a dashboard for a question in a public collection
+- scenarios > question > new > composite keys should act as filters on click (metabase#13717)
+- scenarios > question > new > data picker > data selector popover should not be too small (metabase#15591)
+- scenarios > question > new > data picker > new question data picker search should work for both saved questions and database tables
+- scenarios > question > new > data picker > 'Saved Questions' prompt should respect nested collections structure (metabase#14178)
+- scenarios > question > new > data picker > should be possible to create a question based on a question in another user personal collection
+- scenarios > question > new > data picker > should suggest questions saved in collections with colon in their name (metabase#14287)
+- scenarios > question > new > data picker > without models > can create a question from a saved question
+- scenarios > question > new > data picker > without models > can create a question from the sample database
+- scenarios > question > new > data picker > without models > shows models and raw data options after creating a model
+- scenarios > question > new > should be able to save a question to a collection created on the go
+- scenarios > question > new > should be able to save a question to a dashboard created on the go
+- scenarios > question > new > should handle ad-hoc question with old syntax (metabase#15372)
+- scenarios > question > new > should not suggest recent items where can_write=false when saving a question
+- scenarios > question > new > should preserve the original question name (metabase#41196)
+- scenarios > question > new > should suggest the currently viewed dashboard when saving question
+- Should start the app without crashing
+- should work every single time
+- should work every time
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: test_failed_table_20250218225752
+- model: Field
+  id: test
+- model: FieldValues
+  id: '0'
+created_at: '2025-02-18T22:57:53.001842Z'
+last_used_at: '2025-02-18T22:57:53.001842Z'
+type: full

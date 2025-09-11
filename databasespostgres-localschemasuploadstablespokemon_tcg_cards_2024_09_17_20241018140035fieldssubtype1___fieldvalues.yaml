@@ -1,0 +1,25 @@
+values:
+- Basic
+- Item
+- Pokémon Tool
+- Stadium
+- Stage 1
+- Stage 2
+- Supporter
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_2024_09_17_20241018140035
+- model: Field
+  id: subtype1
+- model: FieldValues
+  id: '0'
+created_at: '2024-10-18T14:00:38.646454Z'
+last_used_at: '2024-10-18T14:00:38.646454Z'
+type: full

@@ -1,0 +1,64 @@
+values:
+- '{}'
+- '{"graph.dimensions":["created_at","group_name"],"graph.metrics":["count"],"column_settings":null}'
+- '{"graph.dimensions":["model_id"],"graph.show_goal":false,"graph.show_values":true,"table.pivot_column":"model_id","table.cell_column":"count","column_settings":{"[\"name\",\"count\"]":{"show_mini_bar":true}},"graph.metrics":["count"]}'
+- '{"graph.dimensions":["timestamp"],"graph.metrics":["count"],"column_settings":null}'
+- '{"graph.dimensions":["timestamp"],"graph.show_values":true,"graph.metrics":["count"],"column_settings":null}'
+- '{"graph.dimensions":["timestamp","group_name"],"graph.show_values":true,"graph.metrics":["count"],"column_settings":null}'
+- '{"graph.dimensions":["timestamp"],"table.cell_column":"model_id","table.pivot_column":"end_timestamp","graph.show_values":true,"graph.metrics":["count"],"column_settings":null}'
+- '{"graph.dimensions":["val1"],"graph.series_order_dimension":null,"graph.series_order":null,"graph.metrics":["val1","id"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":[]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["average_price"],"graph.colors":["#98D9D9"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["expanded_legal"],"graph.colors":["#509EE3"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["hp"],"graph.colors":["#F2A86F"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["pokedex_number"],"graph.colors":["#98D9D9"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["regulation_mark"],"graph.colors":["#98D9D9"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["set_expanded_legal"],"graph.colors":["#F9D45C"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["set_printed_total"],"graph.colors":["#A989C5"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["set_standard_legal"],"graph.colors":["#98D9D9"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["set_total"],"graph.colors":["#F9D45C"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["standard_legal"],"graph.colors":["#EF8C8C"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["supertype"],"graph.colors":["#7172AD"]}'
+- '{"graph.series_labels":["number"],"graph.metrics":["count"],"graph.dimensions":["type2"],"graph.colors":["#7172AD"]}'
+- '{"graph.series_labels":["sum","average"],"graph.metrics":["sum","avg"],"graph.dimensions":["set_release_date"],"graph.colors":["#F2A86F","#F9D45C"]}'
+- '{"scalar.field":"date_joined","column_settings":{"[\"ref\",[\"field\",696,null]]":{"time_enabled":null,"date_abbreviate":true}}}'
+- '{"scalar.field":"is_admin","column_settings":null}'
+- '{"scalar.field":"last_login","column_settings":{"[\"ref\",[\"field\",696,null]]":{"time_enabled":null,"date_abbreviate":true},"[\"ref\",[\"field\",701,null]]":{"time_enabled":null,"date_abbreviate":true}}}'
+- '{"scalar.field":"sso_source","column_settings":null}'
+- '{"table.columns":[{"name":"user_id","fieldRef":["field",684,null],"enabled":false},{"name":"group_id","fieldRef":["field",685,null],"enabled":true},{"name":"group_name","fieldRef":["field",686,null],"enabled":true}],"table.pivot_column":"group_id","table.cell_column":"group_name","column_settings":null}'
+- '{"table.pivot_column":"action_type","table.cell_column":"event_timestamp","column_settings":null}'
+- '{"table.pivot_column":"action_type","table.cell_column":"event_timestamp","graph.show_values":true,"graph.dimensions":["created_at"],"graph.metrics":["count"],"column_settings":null}'
+- '{"table.pivot_column":"email","table.cell_column":"sum"}'
+- '{"table.pivot_column":"end_timestamp","table.cell_column":"model_id","column_settings":null}'
+- '{"table.pivot_column":"end_timestamp","table.cell_column":"model_id","graph.dimensions":["timestamp"],"graph.metrics":["count"],"column_settings":null}'
+- '{"table.pivot_column":"end_timestamp","table.cell_column":"model_id","table.columns":[{"name":"full_name","fieldRef":["field",704,{"base-type":"type/Text","join-alias":"Question 1"}],"enabled":true},{"name":"count","fieldRef":["aggregation",0],"enabled":true}],"column_settings":{"[\"ref\",[\"field\",704,{\"base-type\":\"type/Text\",\"join-alias\":\"Question 1\"}]]":{"column_title":"User"},"[\"name\",\"count\"]":{"column_title":"Questions created","show_mini_bar":true}}}'
+- '{"table.pivot_column":"end_timestamp","table.cell_column":"model_id","table.columns":[{"name":"full_name","fieldRef":["field",704,{"base-type":"type/Text","join-alias":"Question 1"}],"enabled":true},{"name":"count","fieldRef":["aggregation",0],"enabled":true}],"column_settings":{"[\"ref\",[\"field\",704,{\"base-type\":\"type/Text\",\"join-alias\":\"Question 1\"}]]":{"column_title":"User"},"[\"name\",\"count\"]":{"column_title":"Question views","show_mini_bar":true}}}'
+- '{"table.pivot_column":"end_timestamp","table.cell_column":"model_id","table.columns":[{"name":"timestamp","fieldRef":["field",658,{"temporal-unit":"default"}],"enabled":true},{"name":"id","fieldRef":["field",679,{"join-alias":"Question 35"}],"enabled":true},{"name":"name","fieldRef":["field",666,{"join-alias":"Question 35"}],"enabled":true},{"name":"description","fieldRef":["field",682,{"join-alias":"Question 35"}],"enabled":true},{"name":"user_id","fieldRef":["field",702,{"join-alias":"Question 1"}],"enabled":false},{"name":"email","fieldRef":["field",698,{"join-alias":"Question 1"}],"enabled":false},{"name":"first_name","fieldRef":["field",693,{"join-alias":"Question 1"}],"enabled":false},{"name":"last_name","fieldRef":["field",700,{"join-alias":"Question 1"}],"enabled":false},{"name":"full_name","fieldRef":["field",704,{"join-alias":"Question 1"}],"enabled":false},{"name":"date_joined","fieldRef":["field",696,{"join-alias":"Question 1"}],"enabled":false},{"name":"last_login","fieldRef":["field",701,{"join-alias":"Question 1"}],"enabled":false},{"name":"updated_at","fieldRef":["field",695,{"join-alias":"Question 1"}],"enabled":false},{"name":"is_admin","fieldRef":["field",703,{"join-alias":"Question 1"}],"enabled":false},{"name":"is_active","fieldRef":["field",699,{"join-alias":"Question 1"}],"enabled":false},{"name":"sso_source","fieldRef":["field",694,{"join-alias":"Question 1"}],"enabled":false},{"name":"locale","fieldRef":["field",697,{"join-alias":"Question 1"}],"enabled":false}],"column_settings":{"[\"ref\",[\"field\",679,{\"join-alias\":\"Question 35\"}]]":{"view_as":null,"column_title":"Dashboard ID","link_text":"Dashboard {{id}}","link_url":""},"[\"ref\",[\"field\",666,{\"join-alias\":\"Question 35\"}]]":{"column_title":"Dashboard name"},"[\"ref\",[\"field\",682,{\"join-alias\":\"Question 35\"}]]":{"column_title":"Description"}}}'
+- '{"table.pivot_column":"end_timestamp","table.cell_column":"model_id","table.columns":[{"name":"timestamp","fieldRef":["field",658,{"temporal-unit":"default"}],"enabled":true},{"name":"id","fieldRef":["field",679,{"join-alias":"Question 35"}],"enabled":true},{"name":"name","fieldRef":["field",666,{"join-alias":"Question 35"}],"enabled":true},{"name":"description","fieldRef":["field",682,{"join-alias":"Question 35"}],"enabled":true},{"name":"user_id","fieldRef":["field",702,{"join-alias":"Question 1"}],"enabled":false},{"name":"email","fieldRef":["field",698,{"join-alias":"Question 1"}],"enabled":false},{"name":"first_name","fieldRef":["field",693,{"join-alias":"Question 1"}],"enabled":false},{"name":"last_name","fieldRef":["field",700,{"join-alias":"Question 1"}],"enabled":false},{"name":"full_name","fieldRef":["field",704,{"join-alias":"Question 1"}],"enabled":false},{"name":"date_joined","fieldRef":["field",696,{"join-alias":"Question 1"}],"enabled":false},{"name":"last_login","fieldRef":["field",701,{"join-alias":"Question 1"}],"enabled":false},{"name":"updated_at","fieldRef":["field",695,{"join-alias":"Question 1"}],"enabled":false},{"name":"is_admin","fieldRef":["field",703,{"join-alias":"Question 1"}],"enabled":false},{"name":"is_active","fieldRef":["field",699,{"join-alias":"Question 1"}],"enabled":false},{"name":"sso_source","fieldRef":["field",694,{"join-alias":"Question 1"}],"enabled":false},{"name":"locale","fieldRef":["field",697,{"join-alias":"Question 1"}],"enabled":false}],"graph.dimensions":["name"],"column_settings":{"[\"ref\",[\"field\",679,{\"join-alias\":\"Question 35\"}]]":{"view_as":null,"column_title":"Dashboard ID","link_text":"Dashboard {{id}}","link_url":""},"[\"ref\",[\"field\",666,{\"join-alias\":\"Question 35\"}]]":{"column_title":"Dashboard name"},"[\"ref\",[\"field\",682,{\"join-alias\":\"Question 35\"}]]":{"column_title":"Description"}},"graph.metrics":["count"]}'
+- '{"table.pivot_column":"events","table.cell_column":"usage__kwh_"}'
+- '{"table.pivot_column":"expected_invoice","table.cell_column":"id"}'
+- '{"table.pivot_column":"group_id","table.cell_column":"group_name","column_settings":null}'
+- '{"table.pivot_column":"name","table.cell_column":"recipient_external","column_settings":null}'
+- '{"table.pivot_column":"precip","table.cell_column":"min_temp"}'
+- '{"table.pivot_column":"sso_source","table.cell_column":"locale","column_settings":null}'
+- '{"table.pivot_column":"trial_converted","table.cell_column":"id"}'
+- '{"table.pivot_column":"type2","table.cell_column":"no"}'
+- '{"table.pivot_column":"unnamed_column","table.cell_column":"sum"}'
+- '{"table.pivot":false,"table.pivot_column":"ID","table.cell_column":"sum"}'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: report_card
+- model: Field
+  id: visualization_settings
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:45.587911Z'
+last_used_at: '2023-08-23T01:01:45.587911Z'
+type: full

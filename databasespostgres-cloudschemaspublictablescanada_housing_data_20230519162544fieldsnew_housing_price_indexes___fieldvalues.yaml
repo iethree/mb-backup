@@ -1,0 +1,21 @@
+values:
+- House only
+- Land only
+- Total (house and land)
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: public
+- model: Table
+  id: canada_housing_data_20230519162544
+- model: Field
+  id: new_housing_price_indexes
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-06T20:02:59.953654Z'
+last_used_at: '2024-06-06T20:02:59.953654Z'
+type: full

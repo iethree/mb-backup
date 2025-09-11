@@ -1,0 +1,128 @@
+values:
+- 5ban Graphics
+- Akira Komayama
+- aky CG Works
+- Anesaki Dynamic
+- aspara
+- Atsushi Furusawa
+- Aya Kusube
+- Bun Toujo
+- chibi
+- cochi8i
+- Cona Nitanda
+- DOM
+- En Morikura
+- Eske Yoshinob
+- Fujimoto Gold
+- Gemi
+- GIDORA
+- GOSSAN
+- hatachu
+- Hideki Ishikawa
+- Hitoshi Ariga
+- hncl
+- Kagemaru Himeno
+- kantaro
+- Kariya
+- Katsunori Sato
+- kawayoo
+- Kedamahadaitai Yawarakai
+- KEIICHIRO ITO
+- kirisAki
+- kodama
+- kurumitsu
+- MAHOU
+- Makura Tami
+- Masa
+- Masako Tomii
+- matazo
+- Megumi Mizutani
+- Mékayu
+- mele
+- miki kudo
+- Miki Tanaka
+- MINAMINAMI Take
+- Mina Nakai
+- Minato
+- Misa Tsutsui
+- Mitsuhiro Arita
+- Mizue
+- Mousho
+- nagimiso
+- Naoyo Kimura
+- Narumi Sato
+- Natsumi Miyanose
+- N-DESIGN Inc.
+- Nelnal
+- nisimono
+- Nisota Niso
+- Nobuhiro Imagawa
+- Nurikabe
+- OKACHEKE
+- Oku
+- OKUBO
+- Orca
+- osare
+- Oswaldo KATO
+- otumami
+- Pani Kobayashi
+- PLANETA Igarashi
+- PLANETA Mochizuki
+- PLANETA Tsuji
+- Rond
+- ryoma uratsuka
+- Ryuta Fuse
+- Saboteri
+- Satoshi Shirai
+- Saya Tsuruta
+- Scav
+- Sekio
+- Shiburingaru
+- Shibuzoh.
+- Shimaris Yukichi
+- Shinya Komatsu
+- SIE NANAHARA
+- Souichirou Gunjima
+- sowsow
+- sui
+- Susumu Maeya
+- Taiga Kasai
+- Taiga Kayama
+- Taira Akitsu
+- Takeshi Nakamura
+- Takumi Wada
+- takuyoa
+- Teeziro
+- Tetsu Kayama
+- Tika Matsuno
+- toi8
+- Tomokazu Komiya
+- Tomomi Kaneko
+- toriyufu
+- Toshinao Aoki
+- Toyste Beach
+- Uninori
+- Uta
+- Yoriyuki Ikegami
+- Yoshioka
+- Yuka Morii
+- yuu
+- Yuu Nishida
+- Yuya Oka
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: temporal_forces_diff_20240509161738
+- model: Field
+  id: artist
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-09T16:17:42.063825Z'
+last_used_at: '2024-05-09T16:17:42.063825Z'
+type: full

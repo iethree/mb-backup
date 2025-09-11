@@ -1,0 +1,36 @@
+values:
+- Bug
+- Dark
+- Dragon
+- Electric
+- Fairy
+- Fighting
+- Fire
+- Flying
+- Ghost
+- Grass
+- Ground
+- Ice
+- Normal
+- Poison
+- Psychic
+- Rock
+- Steel
+- Water
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokedex_with_images_20230627221911
+- model: Field
+  id: type1
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:33:09.1791Z'
+last_used_at: '2024-10-29T18:52:41.987484Z'
+type: full

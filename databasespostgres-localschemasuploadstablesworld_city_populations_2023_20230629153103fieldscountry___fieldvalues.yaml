@@ -1,0 +1,150 @@
+values:
+- Afghanistan
+- Algeria
+- Angola
+- Argentina
+- Armenia
+- Australia
+- Austria
+- Azerbaijan
+- Bangladesh
+- Belarus
+- Belgium
+- Benin
+- Bolivia
+- Brazil
+- Bulgaria
+- Burkina Faso
+- Burundi
+- Cambodia
+- Cameroon
+- Canada
+- Central African Republic
+- Chad
+- Chile
+- China
+- Colombia
+- Costa Rica
+- Cuba
+- Czech Republic
+- Denmark
+- Dominican Republic
+- DR Congo
+- Ecuador
+- Egypt
+- El Salvador
+- Eritrea
+- Ethiopia
+- Finland
+- France
+- Gabon
+- Georgia
+- Germany
+- Ghana
+- Greece
+- Guatemala
+- Guinea
+- Haiti
+- Honduras
+- Hong Kong
+- Hungary
+- India
+- Indonesia
+- Iran
+- Iraq
+- Ireland
+- Israel
+- Italy
+- Ivory Coast
+- Japan
+- Jordan
+- Kazakhstan
+- Kenya
+- Kuwait
+- Kyrgyzstan
+- Lebanon
+- Liberia
+- Libya
+- Madagascar
+- Malawi
+- Malaysia
+- Mali
+- Mauritania
+- Mexico
+- Mongolia
+- Morocco
+- Mozambique
+- Myanmar
+- Nepal
+- Netherlands
+- New Zealand
+- Nicaragua
+- Niger
+- Nigeria
+- North Korea
+- Norway
+- Oman
+- Pakistan
+- Palestine
+- Panama
+- Paraguay
+- Peru
+- Philippines
+- Poland
+- Portugal
+- Puerto Rico
+- Qatar
+- Republic of the Congo
+- Romania
+- Russia
+- Rwanda
+- Saudi Arabia
+- Senegal
+- Serbia
+- Sierra Leone
+- Singapore
+- Somalia
+- South Africa
+- South Korea
+- Spain
+- Sudan
+- Sweden
+- Switzerland
+- Syria
+- Taiwan
+- Tajikistan
+- Tanzania
+- Thailand
+- Togo
+- Tunisia
+- Turkey
+- Turkmenistan
+- Uganda
+- Ukraine
+- United Arab Emirates
+- United Kingdom
+- United States
+- Uruguay
+- Uzbekistan
+- Venezuela
+- Vietnam
+- Yemen
+- Zambia
+- Zimbabwe
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: world_city_populations_2023_20230629153103
+- model: Field
+  id: country
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:45.705122Z'
+last_used_at: '2023-08-21T20:32:45.705122Z'
+type: full

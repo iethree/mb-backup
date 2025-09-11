@@ -1,0 +1,19 @@
+values:
+- 0
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: extensions
+- model: Table
+  id: pg_stat_statements
+- model: Field
+  id: local_blks_dirtied
+- model: FieldValues
+  id: '0'
+created_at: '2024-07-15T21:00:06.26552Z'
+last_used_at: '2024-07-15T21:00:06.26552Z'
+type: full

@@ -1,0 +1,50 @@
+values:
+- type/Author
+- type/CancelationTimestamp
+- type/Category
+- type/City
+- type/Company
+- type/Cost
+- type/Country
+- type/CreationTimestamp
+- type/Currency
+- type/Description
+- type/Discount
+- type/Duration
+- type/Email
+- type/Enum
+- type/FK
+- type/Income
+- type/JoinTimestamp
+- type/Latitude
+- type/Longitude
+- type/Name
+- type/PK
+- type/Quantity
+- type/Score
+- type/SerializedJSON
+- type/Share
+- type/Source
+- type/State
+- type/Title
+- type/UpdatedTimestamp
+- type/URL
+- type/ZipCode
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_field
+- model: Field
+  id: semantic_type
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:42.104125Z'
+last_used_at: '2023-08-23T00:46:42.104125Z'
+type: full

@@ -1,0 +1,72 @@
+values:
+- Antique Cover Fossil
+- Antique Root Fossil
+- Applin
+- Charjabug
+- Chewtle
+- Chinchou
+- Crabrawler
+- Cubone
+- Dipplin
+- Drifloon
+- Duraludon
+- Electabuzz
+- Fidough
+- Finneon
+- Fletchinder
+- Fletchling
+- Flittle
+- Froakie
+- Frogadier
+- Glameow
+- Gossifleur
+- Grubbin
+- Gulpin
+- Hoothoot
+- Impidimp
+- Ivysaur
+- Joltik
+- Klang
+- Klink
+- Ledyba
+- Lileep
+- Marill
+- Meditite
+- Meltan
+- Mienfoo
+- Milcery
+- Morgrem
+- Naclstack
+- Nymble
+- Pancham
+- Ponyta
+- Raboot
+- Rhydon
+- Rhyhorn
+- Riolu
+- Salandit
+- Scorbunny
+- Slowpoke
+- Tirtouga
+- Toedscool
+- Varoom
+- Wartortle
+- Wooloo
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_2024_09_17_20241018140035
+- model: Field
+  id: evolves_from
+- model: FieldValues
+  id: '0'
+created_at: '2024-10-18T14:00:37.818885Z'
+last_used_at: '2024-10-18T14:00:37.818885Z'
+type: full

@@ -1,0 +1,28 @@
+values:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 18
+- 19
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: dog_breeds_20230606205409
+- model: Field
+  id: max_life_expectancy
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:22.560082Z'
+last_used_at: '2023-08-21T20:32:22.560082Z'
+type: full

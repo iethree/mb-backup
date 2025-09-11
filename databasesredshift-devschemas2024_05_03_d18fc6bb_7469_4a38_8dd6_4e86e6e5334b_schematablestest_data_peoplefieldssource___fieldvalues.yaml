@@ -1,0 +1,23 @@
+values:
+- Affiliate
+- Facebook
+- Google
+- Organic
+- Twitter
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: 2024_05_03_d18fc6bb_7469_4a38_8dd6_4e86e6e5334b_schema
+- model: Table
+  id: test_data_people
+- model: Field
+  id: source
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-13T18:00:05.441159Z'
+last_used_at: '2024-05-13T18:00:05.441159Z'
+type: full

@@ -1,0 +1,24 @@
+values:
+- null
+- Checkout
+- Create Item
+- Invite
+- Signup
+- Subscribe
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Sample Database
+- model: Schema
+  id: PUBLIC
+- model: Table
+  id: ANALYTIC_EVENTS
+- model: Field
+  id: BUTTON_LABEL
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:18:25.996342Z'
+last_used_at: '2023-08-21T20:18:25.996342Z'
+type: full

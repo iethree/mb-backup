@@ -1,0 +1,33 @@
+values:
+- black
+- blue
+- blue-gray
+- brown
+- dark
+- gold
+- green, yellow
+- hazel
+- orange
+- pink
+- red
+- red, blue
+- unknown
+- white
+- yellow
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: star_wars_characters_20240321212417
+- model: Field
+  id: eye_color
+- model: FieldValues
+  id: '0'
+created_at: '2024-03-21T21:24:18.476629Z'
+last_used_at: '2024-03-21T21:24:18.476629Z'
+type: full

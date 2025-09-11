@@ -1,0 +1,22 @@
+values:
+- 1
+- 501
+- 5001
+- 15001
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: year_end_gifts_20231002174107
+- model: Field
+  id: min
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-04T03:08:33.867479Z'
+last_used_at: '2023-10-04T03:08:33.867479Z'
+type: full

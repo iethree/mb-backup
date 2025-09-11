@@ -1,0 +1,19 @@
+values:
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: year_end_gifts_20231004144148__mbarchiv__1755547320
+- model: Field
+  id: unnamed_column
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-04T14:41:48.820766Z'
+last_used_at: '2023-10-04T14:41:48.820766Z'
+type: full

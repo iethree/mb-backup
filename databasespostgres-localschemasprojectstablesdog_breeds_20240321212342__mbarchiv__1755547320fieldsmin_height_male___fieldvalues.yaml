@@ -1,0 +1,53 @@
+values:
+- '10'
+- '10.5'
+- '11'
+- '12'
+- '13'
+- '14'
+- '14.5'
+- '15'
+- '15.5'
+- '16'
+- '17'
+- '17.5'
+- '18'
+- '19'
+- '20'
+- '21'
+- '22'
+- '22.5'
+- '23'
+- '23.5'
+- '24'
+- '25'
+- '25.5'
+- '26'
+- '27'
+- '28'
+- '29'
+- '30'
+- '5'
+- '6'
+- '7'
+- '8'
+- '8.5'
+- '9'
+- '9.5'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: dog_breeds_20240321212342__mbarchiv__1755547320
+- model: Field
+  id: min_height_male
+- model: FieldValues
+  id: '0'
+created_at: '2024-03-21T21:23:44.135552Z'
+last_used_at: '2024-03-21T21:23:44.135552Z'
+type: full

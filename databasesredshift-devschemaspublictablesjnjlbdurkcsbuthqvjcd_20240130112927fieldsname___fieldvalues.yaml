@@ -1,0 +1,20 @@
+values:
+- ' Darth Vader'
+- ' Luke Skywalker'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: public
+- model: Table
+  id: jnjlbdurkcsbuthqvjcd_20240130112927
+- model: Field
+  id: name
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-08T18:01:39.262705Z'
+last_used_at: '2024-02-08T18:01:39.262705Z'
+type: full

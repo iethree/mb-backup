@@ -1,0 +1,70 @@
+values:
+- Alabama
+- Alaska
+- Arizona
+- Arkansas
+- California
+- Colorado
+- Connecticut
+- DC
+- Delaware
+- Florida
+- Georgia
+- Hawaii
+- Idaho
+- Illinois
+- Indiana
+- Iowa
+- Kansas
+- Kentucky
+- Louisiana
+- Maine
+- Maryland
+- Massachusetts
+- Michigan
+- Minnesota
+- Mississippi
+- Missouri
+- Montana
+- Nebraska
+- Nevada
+- New Hampshire
+- New Jersey
+- New Mexico
+- New York
+- North Carolina
+- North Dakota
+- Ohio
+- Oklahoma
+- Oregon
+- Pennsylvania
+- Rhode Island
+- South Carolina
+- South Dakota
+- Tennessee
+- Texas
+- Total U.S.
+- Utah
+- Vermont
+- Virginia
+- Washington
+- West Virginia
+- Wisconsin
+- Wyoming
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: us_pop_by_state_20240207170934
+- model: Field
+  id: state
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-07T17:09:35.383718Z'
+last_used_at: '2024-02-07T17:09:35.383718Z'
+type: full

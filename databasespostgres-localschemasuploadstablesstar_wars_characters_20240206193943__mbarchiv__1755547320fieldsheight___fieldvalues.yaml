@@ -1,0 +1,64 @@
+values:
+- '112'
+- '122'
+- '137'
+- '150'
+- '157'
+- '160'
+- '163'
+- '165'
+- '166'
+- '167'
+- '168'
+- '170'
+- '171'
+- '172'
+- '173'
+- '175'
+- '177'
+- '178'
+- '180'
+- '182'
+- '183'
+- '184'
+- '185'
+- '188'
+- '190'
+- '191'
+- '193'
+- '196'
+- '198'
+- '200'
+- '202'
+- '206'
+- '213'
+- '216'
+- '224'
+- '228'
+- '229'
+- '234'
+- '264'
+- '66'
+- '79'
+- '88'
+- '94'
+- '96'
+- '97'
+- unknown
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: star_wars_characters_20240206193943__mbarchiv__1755547320
+- model: Field
+  id: height
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-06T19:39:44.591366Z'
+last_used_at: '2024-02-06T19:39:44.591366Z'
+type: full

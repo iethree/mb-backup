@@ -1,0 +1,151 @@
+values:
+- Adaptability
+- Aftermath
+- Anger Point
+- Anticipation
+- Arena Trap
+- Armor Tail
+- Battle Armor
+- Big Pecks
+- Bulletproof
+- Cheek Pouch
+- Chlorophyll
+- Cloud Nine
+- Competitive
+- Compound Eyes
+- Cursed Body
+- Damp
+- Download
+- Drizzle
+- Drought
+- Dry Skin
+- Early Bird
+- Effect Spore
+- Filter
+- Flame Body
+- Flash Fire
+- Forewarn
+- Frisk
+- Gluttony
+- Guard Dog
+- Guts
+- Heatproof
+- Heavy Metal
+- Huge Power
+- Hustle
+- Hydration
+- Ice Body
+- Illuminate
+- Infiltrator
+- Inner Focus
+- Insomnia
+- Intimidate
+- Iron Fist
+- Keen Eye
+- Klutz
+- Leaf Guard
+- Lightning Rod
+- Limber
+- Liquid Ooze
+- Magic Guard
+- Magnet Pull
+- Minus
+- Mold Breaker
+- Motor Drive
+- Moxie
+- Natural Cure
+- Neutralizing Gas
+- No Guard
+- Normalize
+- Oblivious
+- Overcoat
+- Own Tempo
+- Pastel Veil
+- Pickpocket
+- Pickup
+- Plus
+- Poison Heal
+- Poison Point
+- Poison Touch
+- Pressure
+- Queenly Majesty
+- Quick Feet
+- Rain Dish
+- Rattled
+- Reckless
+- Regenerator
+- Rivalry
+- Rock Head
+- Run Away
+- Sand Force
+- Sand Rush
+- Sand Stream
+- Sand Veil
+- Sap Sipper
+- Scrappy
+- Screen Cleaner
+- Serene Grace
+- Sharpness
+- Shed Skin
+- Sheer Force
+- Shell Armor
+- Shield Dust
+- Simple
+- Skill Link
+- Slush Rush
+- Sniper
+- Snow Cloak
+- Snow Warning
+- Solar Power
+- Solid Rock
+- Soundproof
+- Stall
+- Stamina
+- Static
+- Steadfast
+- Sticky Hold
+- Storm Drain
+- Strong Jaw
+- Sturdy
+- Suction Cups
+- Super Luck
+- Supreme Overlord
+- Swarm
+- Swift Swim
+- Synchronize
+- Tangled Feet
+- Tangling Hair
+- Technician
+- Telepathy
+- Thick Fat
+- Tinted Lens
+- Tough Claws
+- Trace
+- Triage
+- Unaware
+- Unburden
+- Unnerve
+- Vital Spirit
+- Volt Absorb
+- Water Absorb
+- Water Veil
+- Weak Armor
+- White Smoke
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokedex_with_images_20230627221911
+- model: Field
+  id: ability2
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:33:08.720378Z'
+last_used_at: '2023-08-21T20:33:08.720378Z'
+type: full

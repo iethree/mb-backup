@@ -1,0 +1,27 @@
+values:
+- 17
+- 18
+- 22
+- 26
+- 32
+- 35
+- 38
+- 52
+- 64
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: worldcups_20230629161707
+- model: Field
+  id: matchesplayed
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:16.65746Z'
+last_used_at: '2023-08-21T20:32:16.65746Z'
+type: full

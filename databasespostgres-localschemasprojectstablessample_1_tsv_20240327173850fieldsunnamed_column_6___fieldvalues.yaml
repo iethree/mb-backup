@@ -1,0 +1,28 @@
+values:
+- '13'
+- '14'
+- '20'
+- '21'
+- '27'
+- '28'
+- '6'
+- '7'
+- T
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: sample_1_tsv_20240327173850
+- model: Field
+  id: unnamed_column_6
+- model: FieldValues
+  id: '0'
+created_at: '2024-03-27T17:38:54.295153Z'
+last_used_at: '2024-03-27T17:38:54.295153Z'
+type: full

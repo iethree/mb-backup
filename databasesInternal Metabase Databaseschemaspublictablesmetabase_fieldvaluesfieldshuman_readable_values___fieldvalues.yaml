@@ -1,0 +1,19 @@
+values:
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_fieldvalues
+- model: Field
+  id: human_readable_values
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:43.776013Z'
+last_used_at: '2023-08-23T01:01:43.776013Z'
+type: full

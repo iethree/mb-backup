@@ -1,0 +1,70 @@
+values:
+- ADX
+- ASX
+- AZD
+- BEX
+- BGT
+- BMX
+- BYD
+- CDA
+- CRX
+- DSX
+- FEX
+- FJX
+- FMX
+- FSK
+- FTG
+- GMX
+- HNX
+- HYX
+- JCX
+- JLX
+- KAL
+- KGG
+- KMX
+- LMU
+- LRX
+- LTX
+- MAX
+- MBV
+- MBX
+- MLN
+- MTX
+- NLX
+- NSX
+- PGN
+- PRX
+- QTM
+- RAX
+- RII
+- RRG
+- SAX
+- SCA
+- SKR
+- SKX
+- SUB
+- TKX
+- TSL
+- TVP
+- TYX
+- VGA
+- VVX
+- VWX
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: vehicle_fuel_economy_data_20230606210745
+- model: Field
+  id: mfrcode
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:42.696751Z'
+last_used_at: '2023-08-21T20:32:42.696751Z'
+type: full

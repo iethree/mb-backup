@@ -1,0 +1,28 @@
+values:
+- Black
+- Blue
+- Brown
+- Gray
+- Green
+- Pink
+- Purple
+- Red
+- White
+- Yellow
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokedex_with_images_20231004150451
+- model: Field
+  id: color
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-04T15:04:59.122724Z'
+last_used_at: '2023-10-04T15:04:59.122724Z'
+type: full

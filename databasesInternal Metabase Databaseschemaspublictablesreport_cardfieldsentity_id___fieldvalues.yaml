@@ -1,0 +1,78 @@
+values:
+- 0wVIfjBJWclD0lKeABYYl
+- 1eSUKo03_Q2XjahQUnP5R
+- 2Ft0EVM95RnjQRRg0WK-c
+- 37wqssHH7iun2rGE-GpIA
+- 3CtVT_JDxNvMM5aFLtEHR
+- 5HQS2xXAPF4hOFudut_Tg
+- 5ojUtU9iE-DCggHdFPIll
+- 6FOk52z2zY_V2v8YVi9_-
+- 6Ow0bST5nzr1nicQuLhyw
+- 7D2X_tIHHan5zrR2XLBj3
+- 9shJ0y29V5o1lOSDL4ImJ
+- 9TnJr0b_tOIZUMgmIJmk5
+- arauKD6kI-12yADh97bi_
+- AxSackBiyXVRUzM_TyyQY
+- DnNyT6EtIn-Zx8bHRFHbV
+- ezcT88-OmH-5HFOFNqmX7
+- F7EhIemsBMQRuSwYOlCXi
+- fBr2cU-86t14YWbaS3r6-
+- fKFAFvh3t9rY06y0ep3xz
+- fPH9bvozjmRFYvk8L_lJE
+- FUuJSuFo7wM6EoddmNsHf
+- g1fHmAAbqMPTmZB8wgmCv
+- G7fFejjb7cgwYlUXSvf3K
+- Gh1k3X8xzDcAVCn8XHQBz
+- _GUir2yJ6Ln4zYUMLbB-C
+- gYt6bo9DFKz6tSeDLxYVs
+- hFpp3c-7Y-CtMOrs3zeyn
+- j5JOALU_mGqOoLbCQZF7n
+- JPERH6xYVcj3m2Zw0YVY1
+- kd1-A_wWOvlSuLDTFUpyb
+- lh0sbjKcm9BhiiHPpPxRa
+- -lNDM3tJmuL5ltGbX0oyT
+- lp66mVD8jyA7IQqvceObK
+- lTp-ATFsCUFEr9I0fMEaO
+- LXu_IZa1EDg3QOhlwunGy
+- p8ZML2ebd3ItzCyWsKXLa
+- P--u_oMJytiqY3sUUMkCm
+- p-z74CSp1IOs1rXwAcwcS
+- QStKRlcAUDf62J4hDdyYa
+- QZyfFTUB5_Wh8a5ojJBnr
+- r02AQHY93wEkW6F37LMdf
+- rwz0ID2IpQPQW85wap3FO
+- s6Kl4ah9PMVtprOg7IyXo
+- S_OB83oO1KGu-r4xQqVZx
+- T1vsVJUAfg30Fqiw4Dywa
+- t-4MnpU-Nn7Ph9GQT6zYb
+- tCZTqZLY6JrIfIPAgAoIW
+- UDT0L8_alkc7_WZR062fE
+- UM3nC-OtGqMIW6Pk-XfqL
+- VLlI6kLqVHmqxcwxYTwWq
+- Vm-4GYORvVbGu9jHVLfg1
+- _vQdiPbSjTAVQRz29IJUT
+- WOKdeTvk_mEb8gZjdc9zL
+- WoQnk12nwOaJ1pcb1wsr4
+- WU1zOO5I_kZioBcmkoxMZ
+- Y0ZykgQ64HHwAW_MYx-dW
+- ybsNZp-876qEMoA1U51dc
+- Z18i0B5CgOe66-YScAZdx
+- zn_VtBXm5-teZmXpwGcNu
+- ZYA5jNaWjjYE0qhNiLup8
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: report_card
+- model: Field
+  id: entity_id
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:45.404376Z'
+last_used_at: '2023-08-23T01:01:45.404376Z'
+type: full

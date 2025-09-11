@@ -1,0 +1,49 @@
+values:
+- blue
+- blue, grey
+- brown
+- brown mottle
+- brown, white
+- dark
+- fair
+- fair, green, yellow
+- gold
+- green
+- green, grey
+- green-tan, brown
+- grey
+- grey, blue
+- grey, green, yellow
+- grey, red
+- light
+- metal
+- mottled green
+- none
+- orange
+- pale
+- red
+- red, blue, white
+- silver, red
+- tan
+- unknown
+- white
+- white, blue
+- white, red
+- yellow
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: public
+- model: Table
+  id: star_wars_characters_20230519160051
+- model: Field
+  id: skin_color
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-06T20:03:17.102134Z'
+last_used_at: '2024-06-06T20:03:17.102134Z'
+type: full

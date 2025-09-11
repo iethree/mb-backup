@@ -1,0 +1,19 @@
+values:
+- true
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: canada_housing_data_20230609161724
+- model: Field
+  id: decimals
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:21.532754Z'
+last_used_at: '2023-08-21T20:32:21.532754Z'
+type: full

@@ -1,0 +1,19 @@
+values:
+- 'test      '
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: public81
+- model: Table
+  id: border71
+- model: Field
+  id: offer66
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-08T18:01:29.41898Z'
+last_used_at: '2024-02-08T18:01:29.41898Z'
+type: full

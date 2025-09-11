@@ -1,0 +1,21 @@
+values:
+- postgres-local
+- Sample Database
+- Sample MySQL
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: v_databases
+- model: Field
+  id: name
+- model: FieldValues
+  id: '0'
+created_at: '2023-11-02T01:00:05.894097Z'
+last_used_at: '2024-01-18T22:47:32.35632Z'
+type: full

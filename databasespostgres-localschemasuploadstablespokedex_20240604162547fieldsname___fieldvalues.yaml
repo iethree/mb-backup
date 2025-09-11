@@ -1,0 +1,218 @@
+values:
+- Abra
+- Aerodactyl
+- Alakazam
+- Alolan Diglett
+- Alolan Dugtrio
+- Alolan Exeggutor
+- Alolan Geodude
+- Alolan Golem
+- Alolan Graveler
+- Alolan Grimer
+- Alolan Marowak
+- Alolan Meowth
+- Alolan Muk
+- Alolan Ninetales
+- Alolan Persian
+- Alolan Raichu
+- Alolan Raticate
+- Alolan Rattata
+- Alolan Sandshrew
+- Alolan Sandslash
+- Alolan Vulpix
+- Arbok
+- Arcanine
+- Articuno
+- Beedrill
+- Bellsprout
+- Blastoise
+- Bulbasaur
+- Butterfree
+- Caterpie
+- Chansey
+- Charizard
+- Charmander
+- Charmeleon
+- Clefable
+- Clefairy
+- Cloyster
+- Cubone
+- Dewgong
+- Diglett
+- Ditto
+- Dodrio
+- Doduo
+- Dragonair
+- Dragonite
+- Dratini
+- Drowzee
+- Dugtrio
+- Eevee
+- Ekans
+- Electabuzz
+- Electrode
+- Exeggcute
+- Exeggutor
+- Farfetch'd
+- Fearow
+- Flareon
+- Galarian Articuno
+- Galarian Farfetch'd
+- Galarian Meowth
+- Galarian Moltres
+- Galarian Mr. Mime
+- Galarian Ponyta
+- Galarian Rapidash
+- Galarian Slowbro
+- Galarian Slowpoke
+- Galarian Weezing
+- Galarian Zapdos
+- Gastly
+- Gengar
+- Geodude
+- Gloom
+- Golbat
+- Goldeen
+- Golduck
+- Golem
+- Graveler
+- Grimer
+- Growlithe
+- Gyarados
+- Haunter
+- Hisuian Arcanine
+- Hisuian Electrode
+- Hisuian Growlithe
+- Hisuian Voltorb
+- Hitmonchan
+- Hitmonlee
+- Horsea
+- Hypno
+- Ivysaur
+- Jigglypuff
+- Jolteon
+- Jynx
+- Kabuto
+- Kabutops
+- Kadabra
+- Kakuna
+- Kangaskhan
+- Kingler
+- Koffing
+- Krabby
+- Lapras
+- Lickitung
+- Machamp
+- Machoke
+- Machop
+- Magikarp
+- Magmar
+- Magnemite
+- Magneton
+- Mankey
+- Marowak
+- Mega Aerodactyl
+- Mega Alakazam
+- Mega Beedrill
+- Mega Blastoise
+- Mega Charizard X
+- Mega Charizard Y
+- Mega Gengar
+- Mega Gyarados
+- Mega Kangaskhan
+- Mega Mewtwo X
+- Mega Mewtwo Y
+- Mega Pidgeot
+- Mega Pinsir
+- Mega Slowbro
+- Mega Venusaur
+- Meowth
+- Metapod
+- Mew
+- Mewtwo
+- Moltres
+- Mr. Mime
+- Muk
+- Nidoking
+- Nidoqueen
+- Nidoran F
+- Nidoran M
+- Nidorina
+- Nidorino
+- Ninetales
+- Oddish
+- Omanyte
+- Omastar
+- Onix
+- Paldean Tauros
+- Paras
+- Parasect
+- Persian
+- Pidgeot
+- Pidgeotto
+- Pidgey
+- Pikachu
+- Pinsir
+- Poliwag
+- Poliwhirl
+- Poliwrath
+- Ponyta
+- Porygon
+- Primeape
+- Psyduck
+- Raichu
+- Rapidash
+- Raticate
+- Rattata
+- Rhydon
+- Rhyhorn
+- Sandshrew
+- Sandslash
+- Scyther
+- Seadra
+- Seaking
+- Seel
+- Shellder
+- Slowbro
+- Slowpoke
+- Snorlax
+- Spearow
+- Squirtle
+- Starmie
+- Staryu
+- Tangela
+- Tauros
+- Tentacool
+- Tentacruel
+- Vaporeon
+- Venomoth
+- Venonat
+- Venusaur
+- Victreebel
+- Vileplume
+- Voltorb
+- Vulpix
+- Wartortle
+- Weedle
+- Weepinbell
+- Weezing
+- Wigglytuff
+- Zapdos
+- Zubat
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokedex_20240604162547
+- model: Field
+  id: name
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-04T16:25:48.518225Z'
+last_used_at: '2024-06-04T16:25:48.518225Z'
+type: full

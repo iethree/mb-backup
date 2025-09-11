@@ -1,0 +1,21 @@
+values:
+- Post Production
+- Released
+- Rumored
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: tmdb_5000_movies_20240507134809
+- model: Field
+  id: status
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-07T13:48:12.753637Z'
+last_used_at: '2024-05-07T13:48:12.753637Z'
+type: full

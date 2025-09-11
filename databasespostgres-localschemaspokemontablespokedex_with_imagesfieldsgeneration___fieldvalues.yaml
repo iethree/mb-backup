@@ -1,0 +1,36 @@
+values:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+human_readable_values:
+- 1st
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: pokemon
+- model: Table
+  id: pokedex_with_images
+- model: Field
+  id: generation
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-12T21:21:06.259865Z'
+last_used_at: '2025-07-02T17:06:33.129922Z'
+type: full

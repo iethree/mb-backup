@@ -1,0 +1,21 @@
+values:
+- Basic
+- Business
+- Premium
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Sample Database
+- model: Schema
+  id: PUBLIC
+- model: Table
+  id: INVOICES
+- model: Field
+  id: PLAN
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:18:26.412891Z'
+last_used_at: '2023-08-21T20:18:26.412891Z'
+type: full

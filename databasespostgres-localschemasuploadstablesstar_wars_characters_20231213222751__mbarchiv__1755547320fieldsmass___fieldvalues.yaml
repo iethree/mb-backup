@@ -1,0 +1,57 @@
+values:
+- '102'
+- '110'
+- '112'
+- '113'
+- '120'
+- 1,358
+- '136'
+- '140'
+- '15'
+- '159'
+- '17'
+- '20'
+- '32'
+- '40'
+- '45'
+- '48'
+- '49'
+- '50'
+- '55'
+- '56.2'
+- '57'
+- '65'
+- '66'
+- '68'
+- '74'
+- '75'
+- '77'
+- '78.2'
+- '79'
+- '80'
+- '82'
+- '83'
+- '84'
+- '85'
+- '87'
+- '88'
+- '89'
+- '90'
+- unknown
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: star_wars_characters_20231213222751__mbarchiv__1755547320
+- model: Field
+  id: mass
+- model: FieldValues
+  id: '0'
+created_at: '2023-12-13T22:27:52.391208Z'
+last_used_at: '2023-12-13T22:27:52.391208Z'
+type: full

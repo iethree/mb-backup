@@ -1,0 +1,20 @@
+values:
+- F
+- M
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: openpowerlifting_20230518142506
+- model: Field
+  id: sex
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:44.579557Z'
+last_used_at: '2023-08-21T20:32:44.579557Z'
+type: full

@@ -1,0 +1,42 @@
+values:
+- 0
+- 5
+- 10
+- 15
+- 18
+- 20
+- 21
+- 22
+- 25
+- 30
+- 35
+- 40
+- 45
+- 50
+- 55
+- 60
+- 62
+- 65
+- 67
+- 70
+- 75
+- 80
+- 85
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: population_by_zip_2010_20230606185258
+- model: Field
+  id: minimum_age
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:02.437015Z'
+last_used_at: '2023-08-21T20:32:02.437015Z'
+type: full

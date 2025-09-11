@@ -1,0 +1,58 @@
+values:
+- Alberta
+- Atlantic Region
+- British Columbia
+- Calgary, Alberta
+- Canada
+- Charlottetown, Prince Edward Island
+- Edmonton, Alberta
+- Greater Sudbury, Ontario
+- Guelph, Ontario
+- Halifax, Nova Scotia
+- Hamilton, Ontario
+- Kelowna, British Columbia
+- Kitchener-Cambridge-Waterloo, Ontario
+- London, Ontario
+- Manitoba
+- Montréal, Quebec
+- New Brunswick
+- Newfoundland and Labrador
+- Nova Scotia
+- Ontario
+- Oshawa, Ontario
+- Ottawa-Gatineau, Ontario part, Ontario/Quebec
+- Ottawa-Gatineau, Quebec part, Ontario/Quebec
+- Prairie Region
+- Prince Edward Island
+- Quebec
+- Québec, Quebec
+- Regina, Saskatchewan
+- Saint John, Fredericton, and Moncton, New Brunswick
+- Saskatchewan
+- Saskatoon, Saskatchewan
+- Sherbrooke, Quebec
+- St. Catharines-Niagara, Ontario
+- St. John's, Newfoundland and Labrador
+- Toronto, Ontario
+- Trois-Rivières, Quebec
+- Vancouver, British Columbia
+- Victoria, British Columbia
+- Windsor, Ontario
+- Winnipeg, Manitoba
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: public
+- model: Table
+  id: canada_housing_data_20230519162544
+- model: Field
+  id: geo
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-06T20:03:02.093116Z'
+last_used_at: '2024-06-06T20:03:02.093116Z'
+type: full

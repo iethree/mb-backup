@@ -1,0 +1,61 @@
+values:
+- Aquatics
+- Archery
+- Athletics
+- Badminton
+- Baseball
+- Basketball
+- Basque Pelota
+- Boxing
+- Canoe
+- Canoe / Kayak
+- Cricket
+- Croquet
+- Cycling
+- Equestrian
+- Fencing
+- Football
+- Golf
+- Gymnastics
+- Handball
+- Hockey
+- Ice Hockey
+- Jeu de paume
+- Judo
+- Lacrosse
+- Modern Pentathlon
+- Polo
+- Rackets
+- Roque
+- Rowing
+- Rugby
+- Sailing
+- Shooting
+- Skating
+- Softball
+- Table Tennis
+- Taekwondo
+- Tennis
+- Triathlon
+- Tug of War
+- Volleyball
+- Water Motorsports
+- Weightlifting
+- Wrestling
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: summer_olympic_medals_20230629162501
+- model: Field
+  id: sport
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:55.642562Z'
+last_used_at: '2023-08-21T20:32:55.642562Z'
+type: full

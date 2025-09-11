@@ -1,0 +1,26 @@
+values:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: worldcupmatches_20230629161443
+- model: Field
+  id: half_time_home_goals
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:54.196925Z'
+last_used_at: '2023-08-21T20:32:54.196925Z'
+type: full

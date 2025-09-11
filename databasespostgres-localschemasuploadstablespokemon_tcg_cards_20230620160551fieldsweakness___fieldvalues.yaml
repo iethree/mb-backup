@@ -1,0 +1,52 @@
+values:
+- Colorless
+- Colorless Psychic
+- Darkness
+- Dragon
+- Fairy
+- Fighting
+- Fighting Fire
+- Fighting Lightning
+- Fighting Metal
+- Fighting Psychic
+- Fighting Water
+- Fire
+- Fire Fighting
+- Fire Psychic
+- Grass
+- Grass Fighting
+- Grass Fire
+- Grass Lightning
+- Grass Psychic
+- Grass Water
+- Lightning
+- Lightning Fire
+- Lightning Grass
+- Lightning Water
+- Metal
+- Psychic
+- Psychic Darkness
+- Psychic Fire
+- Water
+- Water Fighting
+- Water Fire
+- Water Lightning
+- Water Psychic
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_20230620160551
+- model: Field
+  id: weakness
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:33:12.8342Z'
+last_used_at: '2023-08-21T20:33:12.8342Z'
+type: full

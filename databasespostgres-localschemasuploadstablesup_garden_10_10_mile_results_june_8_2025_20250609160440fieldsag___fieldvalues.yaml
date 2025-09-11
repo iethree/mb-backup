@@ -1,0 +1,32 @@
+values:
+- 1-14
+- 15-19
+- 20-24
+- 25-29
+- 30-34
+- 35-39
+- 40-44
+- 45-49
+- 50-54
+- 55-59
+- 60-64
+- 65-69
+- 70-74
+- 75-79
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: up_garden_10_10_mile_results_june_8_2025_20250609160440
+- model: Field
+  id: ag
+- model: FieldValues
+  id: '0'
+created_at: '2025-06-09T16:07:01.317621Z'
+last_used_at: '2025-06-09T16:07:01.317621Z'
+type: full

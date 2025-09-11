@@ -1,0 +1,81 @@
+values:
+- -1561
+- 19
+- 21
+- 29
+- 36
+- 43
+- 50
+- 58
+- 62
+- 63
+- 64
+- 76
+- 88
+- 94
+- 95
+- 118
+- 119
+- 120
+- 127
+- 128
+- 134
+- 159
+- 177
+- 192
+- 199
+- 209
+- 215
+- 242
+- 251
+- 270
+- 295
+- 337
+- 342
+- 409
+- 410
+- 506
+- 507
+- 517
+- 518
+- 625
+- 671
+- 674
+- 732
+- 760
+- 901
+- 907
+- 1024
+- 1079
+- 1343
+- 1387
+- 1560
+- 1976
+- 1991
+- 2413
+- 2439
+- 2842
+- 2869
+- 3070
+- 3437
+- 4429
+- 6001
+- 8957
+- 19893
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: us_census_by_state_20231002173848
+- model: Field
+  id: internationalmig2020
+- model: FieldValues
+  id: '0'
+created_at: '2023-10-04T03:08:38.051815Z'
+last_used_at: '2023-10-04T03:08:38.051815Z'
+type: full

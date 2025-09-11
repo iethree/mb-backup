@@ -1,0 +1,55 @@
+values:
+- 102BBY
+- 112BBY
+- 15BBY
+- 19BBY
+- 200BBY
+- 21BBY
+- 22BBY
+- 24BBY
+- 29BBY
+- 31.5BBY
+- 31BBY
+- 33BBY
+- 37BBY
+- 40BBY
+- 41.9BBY
+- 41BBY
+- 44BBY
+- 46BBY
+- 47BBY
+- 48BBY
+- 52BBY
+- 53BBY
+- 54BBY
+- 57BBY
+- 58BBY
+- 600BBY
+- 62BBY
+- 64BBY
+- 66BBY
+- 67BBY
+- 72BBY
+- 82BBY
+- 896BBY
+- 8BBY
+- 91BBY
+- 92BBY
+- unknown
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: star_wars_characters_20240321212417
+- model: Field
+  id: birth_year
+- model: FieldValues
+  id: '0'
+created_at: '2024-03-21T21:24:18.742815Z'
+last_used_at: '2024-03-21T21:24:18.742815Z'
+type: full

@@ -1,0 +1,19 @@
+values:
+- 0
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: extensions
+- model: Table
+  id: pg_stat_statements
+- model: Field
+  id: temp_blks_written
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-06T20:02:46.927452Z'
+last_used_at: '2024-06-06T20:02:46.927452Z'
+type: full

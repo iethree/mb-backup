@@ -1,0 +1,20 @@
+values:
+- abc1234
+- abc123def
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: test_timings_20250124232632
+- model: Field
+  id: commit_hash
+- model: FieldValues
+  id: '0'
+created_at: '2025-01-24T23:26:33.944711Z'
+last_used_at: '2025-01-24T23:26:33.944711Z'
+type: full

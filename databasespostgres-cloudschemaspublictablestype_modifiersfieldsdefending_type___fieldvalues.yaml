@@ -1,0 +1,36 @@
+values:
+- Bug
+- Dark
+- Dragon
+- Electric
+- Fairy
+- Fighting
+- Fire
+- Flying
+- Ghost
+- Grass
+- Ground
+- Ice
+- Normal
+- Poison
+- Psychic
+- Rock
+- Steel
+- Water
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: public
+- model: Table
+  id: type_modifiers
+- model: Field
+  id: defending_type
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-06T20:03:18.095982Z'
+last_used_at: '2024-06-06T20:03:18.095982Z'
+type: full

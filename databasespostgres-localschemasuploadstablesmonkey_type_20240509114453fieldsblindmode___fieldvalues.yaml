@@ -1,0 +1,19 @@
+values:
+- false
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: monkey_type_20240509114453
+- model: Field
+  id: blindmode
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-09T11:44:57.912246Z'
+last_used_at: '2024-05-09T11:44:57.912246Z'
+type: full

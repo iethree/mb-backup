@@ -1,0 +1,70 @@
+values:
+- '100'
+- 100+
+- '105'
+- '110'
+- 110+
+- '117.5'
+- '120'
+- 120+
+- '125'
+- 125+
+- '140'
+- 140+
+- '145'
+- 145+
+- '155'
+- '30'
+- '34'
+- '35'
+- '39'
+- '40'
+- '43'
+- '44'
+- '47'
+- '48'
+- '52'
+- '53'
+- '56'
+- '57'
+- '59'
+- '60'
+- 60+
+- '63'
+- '66'
+- '67.5'
+- 67.5+
+- '70'
+- 70+
+- '72'
+- '74'
+- '75'
+- 75+
+- '80'
+- '82.5'
+- '83'
+- 83+
+- '84'
+- 84+
+- '90'
+- 90+
+- '93'
+- '95'
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: openpowerlifting_20230518142506
+- model: Field
+  id: weightclasskg
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:44.470136Z'
+last_used_at: '2023-08-21T20:32:44.470136Z'
+type: full

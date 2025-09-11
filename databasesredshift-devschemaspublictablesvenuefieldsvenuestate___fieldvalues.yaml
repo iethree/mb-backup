@@ -1,0 +1,51 @@
+values:
+- AB
+- AZ
+- BC
+- CA
+- CO
+- DC
+- FL
+- GA
+- IL
+- IN
+- KS
+- LA
+- MA
+- MD
+- MI
+- MN
+- MO
+- NC
+- NJ
+- NV
+- NY
+- OH
+- OK
+- 'ON'
+- OR
+- PA
+- QC
+- SC
+- TN
+- TX
+- UT
+- WA
+- WI
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: public
+- model: Table
+  id: venue
+- model: Field
+  id: venuestate
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-08T18:01:30.466872Z'
+last_used_at: '2024-02-08T18:01:30.466872Z'
+type: full

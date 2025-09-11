@@ -1,0 +1,21 @@
+description:
+  format-string: Executes transforms tagged with ''monthly'' once per month
+  args: []
+  pluralization-opts: {}
+built_in_type: monthly
+schedule: 0 0 0 1 * ? *
+name:
+  format-string: Monthly job
+  args: []
+  pluralization-opts: {}
+updated_at: '2025-08-18T19:20:41.120288Z'
+serdes/meta:
+- model: TransformJob
+  id: CL1TVitmzJrDjdjvO2xmN
+  label: monthly_job
+entity_id: CL1TVitmzJrDjdjvO2xmN
+tag_associations:
+- entity_id: CL1TVitmzJrDjdjvO2xmN
+  position: 0
+  tag_id: DeeJHc81qKhD9qWINISO8
+created_at: '2025-08-18T19:20:41.120288Z'

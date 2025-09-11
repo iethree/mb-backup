@@ -1,0 +1,25 @@
+values:
+- Biathlon
+- Bobsleigh
+- Curling
+- Ice Hockey
+- Luge
+- Skating
+- Skiing
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: winter_olympic_medals_20250116190734
+- model: Field
+  id: sport
+- model: FieldValues
+  id: '0'
+created_at: '2025-01-16T19:07:35.158819Z'
+last_used_at: '2025-01-16T19:07:35.158819Z'
+type: full

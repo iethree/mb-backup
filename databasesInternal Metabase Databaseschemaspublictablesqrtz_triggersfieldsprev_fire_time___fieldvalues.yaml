@@ -1,0 +1,27 @@
+values:
+- -1
+- 1692932400000
+- 1693317600000
+- 1693440000000
+- 1693440720000
+- 1693443300000
+- 1693443540000
+- 1693443600000
+- 1693443720000
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: qrtz_triggers
+- model: Field
+  id: prev_fire_time
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:43.557141Z'
+last_used_at: '2023-08-23T01:01:43.557141Z'
+type: full

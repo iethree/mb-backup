@@ -1,0 +1,19 @@
+values:
+- hello
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: redshift-dev
+- model: Schema
+  id: public
+- model: Table
+  id: test_redshift_sync
+- model: Field
+  id: naked_var
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-08T18:02:38.476313Z'
+last_used_at: '2024-02-08T18:02:38.476313Z'
+type: full

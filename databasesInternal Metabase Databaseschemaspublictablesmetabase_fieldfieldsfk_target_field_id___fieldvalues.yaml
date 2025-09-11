@@ -1,0 +1,49 @@
+values:
+- 7
+- 46
+- 62
+- 75
+- 109
+- 133
+- 138
+- 166
+- 194
+- 208
+- 231
+- 269
+- 286
+- 303
+- 342
+- 346
+- 369
+- 390
+- 433
+- 437
+- 438
+- 469
+- 474
+- 479
+- 505
+- 537
+- 556
+- 617
+- 679
+- 702
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_field
+- model: Field
+  id: fk_target_field_id
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:42.594563Z'
+last_used_at: '2023-08-23T00:46:42.594563Z'
+type: full

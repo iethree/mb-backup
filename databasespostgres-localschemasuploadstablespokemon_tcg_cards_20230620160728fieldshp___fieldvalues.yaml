@@ -1,0 +1,51 @@
+values:
+- 10
+- 30
+- 40
+- 50
+- 60
+- 70
+- 80
+- 90
+- 100
+- 110
+- 120
+- 130
+- 140
+- 150
+- 160
+- 170
+- 180
+- 190
+- 200
+- 210
+- 220
+- 230
+- 240
+- 250
+- 260
+- 270
+- 280
+- 300
+- 310
+- 320
+- 330
+- 340
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_20230620160728
+- model: Field
+  id: hp
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:31:55.878423Z'
+last_used_at: '2023-08-21T20:31:55.878423Z'
+type: full

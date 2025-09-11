@@ -1,0 +1,21 @@
+values:
+- '{}'
+- '{"db":"file:/Users/ryan/projects/metabase/plugins/sample-database.db;USER=GUEST;PASSWORD=guest"}'
+- '{"ssl":false,"password":"example_password","port":5432,"advanced-options":false,"schema-filters-type":"all","dbname":"postgres","host":"localhost","tunnel-enabled":false,"user":"postgres"}'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: metabase_database
+- model: Field
+  id: details
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T00:46:40.978418Z'
+last_used_at: '2023-08-23T00:46:40.978418Z'
+type: full

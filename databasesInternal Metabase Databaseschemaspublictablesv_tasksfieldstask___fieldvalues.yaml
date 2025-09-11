@@ -1,0 +1,40 @@
+values:
+- analyze
+- classify-fields
+- classify-tables
+- delete-expired-advanced-field-values
+- delete-inactive-tables
+- field values scanning
+- fingerprint-fields
+- persist-refresh
+- send-pulse
+- send-pulses
+- sync
+- sync-dbms-version
+- sync-fields
+- sync-fks
+- sync-indexes
+- sync-metabase-metadata
+- sync-table-privileges
+- sync-tables
+- sync-timezone
+- task-history-cleanup
+- unpersist-tables
+- update-field-values
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: v_tasks
+- model: Field
+  id: task
+- model: FieldValues
+  id: '0'
+created_at: '2024-05-14T01:14:28.591182Z'
+last_used_at: '2024-05-14T01:14:28.591182Z'
+type: full

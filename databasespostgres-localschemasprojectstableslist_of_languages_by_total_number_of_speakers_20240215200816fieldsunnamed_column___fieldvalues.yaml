@@ -1,0 +1,63 @@
+values:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 24
+- 25
+- 26
+- 27
+- 28
+- 29
+- 30
+- 31
+- 32
+- 33
+- 34
+- 35
+- 36
+- 37
+- 38
+- 39
+- 40
+- 41
+- 42
+- 43
+- 44
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: list_of_languages_by_total_number_of_speakers_20240215200816
+- model: Field
+  id: unnamed_column
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-15T20:08:18.11855Z'
+last_used_at: '2024-02-15T20:08:18.11855Z'
+type: full

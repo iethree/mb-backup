@@ -1,0 +1,19 @@
+values:
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: core_session
+- model: Field
+  id: anti_csrf_token
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:41.810633Z'
+last_used_at: '2023-08-23T01:01:41.810633Z'
+type: full

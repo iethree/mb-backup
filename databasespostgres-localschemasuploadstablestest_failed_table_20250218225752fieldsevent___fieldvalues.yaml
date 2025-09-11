@@ -1,0 +1,20 @@
+values:
+- passed
+- test-failed
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: test_failed_table_20250218225752
+- model: Field
+  id: event
+- model: FieldValues
+  id: '0'
+created_at: '2025-02-18T22:57:53.237595Z'
+last_used_at: '2025-02-18T22:57:53.237595Z'
+type: full

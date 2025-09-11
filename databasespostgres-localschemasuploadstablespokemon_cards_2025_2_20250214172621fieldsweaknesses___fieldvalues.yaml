@@ -1,0 +1,82 @@
+values:
+- 'null'
+- '[{"type":"Colorless","value":"+10"}]'
+- '[{"type":"Colorless","value":"×2"}]'
+- '[{"type":"Colorless","value":"+20"}]'
+- '[{"type":"Colorless","value":"×2"},{"type":"Psychic","value":"×2"}]'
+- '[{"type":"Colorless","value":"+30"}]'
+- '[{"type":"Darkness","value":"+10"}]'
+- '[{"type":"Darkness","value":"×2"}]'
+- '[{"type":"Darkness","value":"+20"}]'
+- '[{"type":"Darkness","value":"+30"}]'
+- '[{"type":"Dragon","value":"×2"}]'
+- '[{"type":"Fairy","value":"×2"}]'
+- '[{"type":"Fighting","value":"+10"}]'
+- '[{"type":"Fighting","value":"×2"}]'
+- '[{"type":"Fighting","value":"+20"}]'
+- '[{"type":"Fighting","value":"×2"},{"type":"Fire","value":"×2"}]'
+- '[{"type":"Fighting","value":"×2"},{"type":"Lightning","value":"×2"}]'
+- '[{"type":"Fighting","value":"×2"},{"type":"Metal","value":"×2"}]'
+- '[{"type":"Fighting","value":"×2"},{"type":"Psychic","value":"×2"}]'
+- '[{"type":"Fighting","value":"×2"},{"type":"Water","value":"×2"}]'
+- '[{"type":"Fighting","value":"+30"}]'
+- '[{"type":"Fire","value":"+10"}]'
+- '[{"type":"Fire","value":"×2"}]'
+- '[{"type":"Fire","value":"+20"}]'
+- '[{"type":"Fire","value":"×2"},{"type":"Fighting","value":"×2"}]'
+- '[{"type":"Fire","value":"+30"}]'
+- '[{"type":"Fire","value":"+40"}]'
+- '[{"type":"Grass","value":"+10"}]'
+- '[{"type":"Grass","value":"×2"}]'
+- '[{"type":"Grass","value":"+20"}]'
+- '[{"type":"Grass","value":"×2"},{"type":"Fighting","value":"×2"}]'
+- '[{"type":"Grass","value":"×2"},{"type":"Fire","value":"×2"}]'
+- '[{"type":"Grass","value":"×2"},{"type":"Lightning","value":"×2"}]'
+- '[{"type":"Grass","value":"×2"},{"type":"Psychic","value":"×2"}]'
+- '[{"type":"Grass","value":"×2"},{"type":"Water","value":"×2"}]'
+- '[{"type":"Grass","value":"+30"}]'
+- '[{"type":"Lightning","value":"+10"}]'
+- '[{"type":"Lightning","value":"×2"}]'
+- '[{"type":"Lightning","value":"+20"}]'
+- '[{"type":"Lightning","value":"×2"},{"type":"Fire","value":"×2"}]'
+- '[{"type":"Lightning","value":"×2"},{"type":"Grass","value":"×2"}]'
+- '[{"type":"Lightning","value":"×2"},{"type":"Water","value":"×2"}]'
+- '[{"type":"Lightning","value":"+30"}]'
+- '[{"type":"Metal","value":"+10"}]'
+- '[{"type":"Metal","value":"×2"}]'
+- '[{"type":"Metal","value":"+20"}]'
+- '[{"type":"Metal","value":"+30"}]'
+- '[{"type":"Metal","value":"+40"}]'
+- '[{"type":"Psychic","value":"+10"}]'
+- '[{"type":"Psychic","value":"×2"}]'
+- '[{"type":"Psychic","value":"+20"}]'
+- '[{"type":"Psychic","value":"×2"},{"type":"Darkness","value":"×2"}]'
+- '[{"type":"Psychic","value":"×2"},{"type":"Fire","value":"×2"}]'
+- '[{"type":"Psychic","value":"+30"}]'
+- '[{"type":"Psychic","value":"+40"}]'
+- '[{"type":"Water","value":"+10"}]'
+- '[{"type":"Water","value":"×2"}]'
+- '[{"type":"Water","value":"+20"}]'
+- '[{"type":"Water","value":"×2"},{"type":"Fighting","value":"×2"}]'
+- '[{"type":"Water","value":"×2"},{"type":"Fire","value":"×2"}]'
+- '[{"type":"Water","value":"×2"},{"type":"Lightning","value":"×2"}]'
+- '[{"type":"Water","value":"×2"},{"type":"Psychic","value":"×2"}]'
+- '[{"type":"Water","value":"+30"}]'
+- '[{"type":"Water","value":"+40"}]'
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_cards_2025_2_20250214172621
+- model: Field
+  id: weaknesses
+- model: FieldValues
+  id: '0'
+created_at: '2025-02-14T17:26:28.53824Z'
+last_used_at: '2025-02-14T17:26:28.53824Z'
+type: full

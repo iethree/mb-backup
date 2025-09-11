@@ -1,0 +1,42 @@
+values:
+- 10am
+- 10pm
+- 11am
+- 11pm
+- 12am
+- 12pm
+- 1am
+- 1pm
+- 2am
+- 2pm
+- 3am
+- 3pm
+- 4am
+- 4pm
+- 5am
+- 5pm
+- 6am
+- 6pm
+- 7am
+- 7pm
+- 8am
+- 8pm
+- 9am
+- 9pm
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: horoscope_20240206201245__mbarchiv__1755547320
+- model: Field
+  id: lucky_time
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-06T20:12:48.937421Z'
+last_used_at: '2024-02-06T20:12:48.937421Z'
+type: full

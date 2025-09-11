@@ -1,0 +1,56 @@
+values:
+- Aleena
+- Besalisk
+- Cerean
+- Chagrian
+- Clawdite
+- Droid
+- Dug
+- Ewok
+- Geonosian
+- Gungan
+- Human
+- Hutt
+- Iktotchi
+- Kaleesh
+- Kaminoan
+- Kel Dor
+- Mirialan
+- Mon Calamari
+- Muun
+- NA
+- Nautolan
+- Neimodian
+- Pau'an
+- Quermian
+- Rodian
+- Skakoan
+- Sullustan
+- Tholothian
+- Togruta
+- Toong
+- Toydarian
+- Trandoshan
+- Twi'lek
+- Vulptereen
+- Wookiee
+- Xexto
+- Yoda's species
+- Zabrak
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: star_wars_characters_20240215200934__mbarchiv__1755547320
+- model: Field
+  id: species
+- model: FieldValues
+  id: '0'
+created_at: '2024-02-15T20:09:35.897707Z'
+last_used_at: '2024-02-15T20:09:35.897707Z'
+type: full

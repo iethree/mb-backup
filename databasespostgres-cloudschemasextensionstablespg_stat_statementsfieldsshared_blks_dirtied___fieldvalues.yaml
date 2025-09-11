@@ -1,0 +1,27 @@
+values:
+- 0
+- 1
+- 2
+- 3
+- 5
+- 7
+- 24
+- 41
+- 238
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: extensions
+- model: Table
+  id: pg_stat_statements
+- model: Field
+  id: shared_blks_dirtied
+- model: FieldValues
+  id: '0'
+created_at: '2024-06-06T20:02:49.603971Z'
+last_used_at: '2024-06-06T20:02:49.603971Z'
+type: full

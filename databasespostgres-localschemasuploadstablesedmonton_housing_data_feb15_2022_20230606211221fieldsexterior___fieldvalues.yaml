@@ -1,0 +1,163 @@
+values:
+- Acrylic Stucco
+- Acrylic Stucco, Hardie Board Siding
+- Acrylic Stucco, Stone, Vinyl
+- Asphalt Shingles
+- Asphalt Shingles, Brick, Wood
+- Asphalt Shingles, Metal
+- Asphalt Shingles, See Remarks
+- Asphalt Shingles, Stucco
+- Asphalt Shingles, Stucco, Vinyl
+- Asphalt Shingles, Vinyl
+- Asphalt Shingles, Wood
+- Brick
+- Brick, Acrylic Stucco
+- Brick, Cedar
+- Brick, Cedar, Acrylic Stucco
+- Brick, Cedar, Stucco
+- Brick, Cedar, Vinyl
+- Brick, Composition, Metal
+- Brick, Composition, Stucco
+- Brick, Composition, Vinyl
+- Brick, Concrete
+- Brick, Concrete, Metal
+- Brick, Fiber Cement Siding
+- Brick, Fiber Cement Siding, Metal
+- Brick, Hardie Board Siding
+- Brick, Metal
+- Brick, Metal, Stucco
+- Brick, See Remarks
+- Brick, Stone
+- Brick, Stone, Hardie Board Siding
+- Brick, Stone, Stucco
+- Brick, Stucco
+- Brick, Stucco, Cedar
+- Brick, Stucco, Composition
+- Brick, Stucco, Hardie Board Siding
+- Brick, Stucco, Metal
+- Brick, Stucco, Vinyl
+- Brick, Stucco, Wood
+- Brick, Vinyl
+- Brick, Vinyl, Acrylic Stucco
+- Brick, Vinyl, Stucco
+- Brick, Wood
+- Cedar
+- Cedar, Stucco
+- Cedar, Vinyl
+- Composition
+- Composition, Acrylic Stucco
+- Composition, Hardie Board Siding
+- Composition, Metal, Stucco
+- Composition, Vinyl
+- Concrete
+- Concrete, Metal, Stone
+- Concrete, Stone
+- Concrete, Stucco
+- Fiber Cement Siding
+- Fiber Cement Siding, Acrylic Stucco
+- Fiber Cement Siding, Stone
+- Fiber Cement Siding, Stucco
+- Hardie Board Siding
+- Hardie Board Siding, Stone, Stucco
+- Hardie Board Siding, Vinyl
+- Log
+- Metal
+- Metal, Acrylic Stucco
+- Metal, Acrylic Stucco, Vinyl
+- Metal, Fiber Cement Siding
+- Metal, Hardie Board Siding
+- Metal, Stone, Stucco
+- Metal, Stucco
+- Metal, Stucco, Cedar
+- Metal, Stucco, Hardie Board Siding
+- Metal, Stucco, Wood
+- Metal, Vinyl
+- Metal, Vinyl, Acrylic Stucco
+- Metal, Vinyl, Composition
+- Metal, Vinyl, Hardie Board Siding
+- Metal, Wood
+- See Remarks
+- See Remarks, Stucco
+- Stone
+- Stone, Acrylic Stucco
+- Stone, Acrylic Stucco, Hardie Board Siding
+- Stone, Brick, Acrylic Stucco
+- Stone, Cedar
+- Stone, Hardie Board Siding
+- Stone, Hardie Board Siding, See Remarks
+- Stone, Metal
+- Stone, Stucco
+- Stone, Stucco, Cedar
+- Stone, Stucco, Hardie Board Siding
+- Stone, Stucco, Vinyl
+- Stone, Vinyl
+- Stone, Vinyl, Acrylic Stucco
+- Stone, Vinyl, Asphalt Shingles
+- Stone, Vinyl, Cedar
+- Stone, Vinyl, Fiber Cement Siding
+- Stone, Vinyl, Hardie Board Siding
+- Stone, Vinyl, Wood
+- Stucco
+- Stucco, Brick
+- Stucco, Brick, Concrete
+- Stucco, Brick, Hardie Board Siding
+- Stucco, Brick, Metal
+- Stucco, Brick, Vinyl
+- Stucco, Cedar
+- Stucco, Composition
+- Stucco, Concrete
+- Stucco, Fiber Cement Siding
+- Stucco, Hardie Board Siding
+- Stucco, Metal
+- Stucco, See Remarks
+- Stucco, See Remarks, Metal
+- Stucco, Stone
+- Stucco, Stone, Hardie Board Siding
+- Stucco, Vinyl
+- Stucco, Vinyl, Metal
+- Stucco, Vinyl, Wood
+- Stucco, Wood
+- Stucco, Wood, Brick
+- Stucco, Wood Shingle
+- Vinyl
+- Vinyl, Acrylic Stucco
+- Vinyl, Acrylic Stucco, Hardie Board Siding
+- Vinyl, Asphalt Shingles
+- Vinyl, Asphalt Shingles, Stucco
+- Vinyl, Brick
+- Vinyl, Brick, Stucco
+- Vinyl, Cedar
+- Vinyl, Composition
+- Vinyl, Concrete
+- Vinyl, Fiber Cement Siding, Metal
+- Vinyl, Hardie Board Siding
+- Vinyl, Metal
+- Vinyl, Metal, Acrylic Stucco
+- Vinyl, Metal, Hardie Board Siding
+- Vinyl, See Remarks
+- Vinyl, Stone
+- Vinyl, Stucco
+- Vinyl, Wood
+- Vinyl, Wood, Metal
+- Wood
+- Wood, Acrylic Stucco
+- Wood, Composition
+- Wood Shingle
+- Wood, Stucco
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: edmonton_housing_data_feb15_2022_20230606211221
+- model: Field
+  id: exterior
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:32:12.592927Z'
+last_used_at: '2023-08-21T20:32:12.592927Z'
+type: full

@@ -1,0 +1,21 @@
+values:
+- Bike Ride
+- Run
+- run
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-cloud
+- model: Schema
+  id: public
+- model: Table
+  id: workouts
+- model: Field
+  id: activity
+- model: FieldValues
+  id: '0'
+created_at: '2024-08-21T21:00:02.774158Z'
+last_used_at: '2024-08-21T21:00:02.774158Z'
+type: full

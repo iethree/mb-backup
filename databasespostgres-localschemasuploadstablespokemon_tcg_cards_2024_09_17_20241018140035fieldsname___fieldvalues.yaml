@@ -1,0 +1,161 @@
+values:
+- Alcremie
+- Antique Cover Fossil
+- Antique Root Fossil
+- Applin
+- Archaludon
+- Area Zero Underdepths
+- Azumarill
+- Blastoise ex
+- Bombirdier
+- Bouffalant
+- Bravery Charm
+- Briar
+- Bulbasaur
+- Carnivine
+- Carracosta
+- Celebi
+- Charcadet
+- Charjabug
+- Chewtle
+- Chinchou
+- Cinderace ex
+- Comfey
+- Crabominable
+- Crabrawler
+- Cradily
+- Crispin
+- Cubone
+- Cyclizar
+- Dachsbun ex
+- Deluxe Bomb
+- Diancie
+- Dipplin
+- Drednaw
+- Drifblim
+- Drifloon
+- Dubwool
+- Duraludon
+- Eevee
+- Eldegoss
+- Electabuzz
+- Electivire
+- Espathra
+- Falinks
+- Fan Rotom
+- Fidough
+- Finneon
+- Fletchinder
+- Fletchling
+- Flittle
+- Froakie
+- Frogadier
+- Galvantula ex
+- Garganacl ex
+- Glameow
+- Glass Trumpet
+- Gossifleur
+- Grand Tree
+- Gravity Gemstone
+- Greavard
+- Greninja ex
+- Grimmsnarl
+- Grubbin
+- Gulpin
+- Hoothoot
+- Hydrapple ex
+- Impidimp
+- Iron Boulder
+- Jirachi
+- Joltik
+- Klang
+- Klink
+- Klinklang
+- Kofu
+- Koraidon
+- Lacey
+- Lanturn
+- Lapras
+- Lapras ex
+- Lechonk
+- Ledian
+- Ledyba
+- Lileep
+- Lokix
+- Lucario ex
+- Lumineon
+- Marill
+- Marowak
+- Medicham
+- Medicham ex
+- Meditite
+- Melmetal
+- Melmetal ex
+- Meltan
+- Mewtwo
+- Mienfoo
+- Mienshao
+- Milcery
+- Morgrem
+- Mow Rotom
+- Noctowl
+- Nymble
+- Occa Berry
+- Orthworm ex
+- Pancham
+- Pangoro
+- Pansear
+- Pawmi
+- Payapa Berry
+- Ponyta
+- Purugly
+- Raboot
+- Raging Bolt
+- Rapidash
+- Reshiram
+- Revavroom
+- Rhydon
+- Rhyhorn
+- Rhyperior
+- Riolu
+- Salandit
+- Salazzle
+- Scorbunny
+- Slowking
+- Slowpoke
+- Sparkling Crystal
+- Squirtle
+- Swalot
+- Talonflame
+- Tauros
+- Terapagos ex
+- Tirtouga
+- Toedscool
+- Toedscruel
+- Togedemaru
+- Tornadus
+- Turtonator
+- Varoom
+- Veluza
+- Venusaur ex
+- Vikavolt
+- Wooloo
+- Yamask
+- Zeraora
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: pokemon_tcg_cards_2024_09_17_20241018140035
+- model: Field
+  id: name
+- model: FieldValues
+  id: '0'
+created_at: '2024-10-18T14:00:37.443972Z'
+last_used_at: '2024-10-18T14:00:37.443972Z'
+type: full

@@ -1,0 +1,72 @@
+values:
+- Accounts
+- Active alerts
+- Active users last week
+- Activity
+- Alerts and Subscriptions
+- Alerts and subscriptions created last week
+- Content
+- Dashboards created last week
+- Energy Usage22 23
+- First login date
+- Group Members
+- Holiday Gift List
+- Invoices
+- Is admin?
+- Last login date
+- Last viewed dashboards
+- Last viewed questions
+- Member of
+- Most active creators
+- Most active viewers
+- Most viewed cards
+- Most viewed dashboards
+- Most viewed questions
+- New dashboards per month
+- Number of question views per week
+- PalmerLakeWeather
+- Pokedex With Images
+- Pokemon Cards added in the last 30 days
+- Pokemon Cards by Average Price
+- Pokemon Cards by Hp
+- Pokemon Cards by Pokedex Number
+- Pokemon Cards by Set Printed Total
+- Pokemon Cards by Set Total
+- Pokemon Cards per Expanded Legal
+- Pokemon Cards per Regulation Mark
+- Pokemon Cards per Set Expanded Legal
+- Pokemon Cards per Set Standard Legal
+- Pokemon Cards per Standard Legal
+- Pokemon Cards per Supertype
+- Pokemon Cards per Type2
+- Questions created last week
+- Questions created per month
+- Question views last week
+- Question views per month
+- row chart with breakout series
+- Set Total over time
+- SSO source
+- Top customers
+- Top Customers
+- Total Pokemon Cards
+- Users
+- Uszips
+- Weekly active users
+- Year End Gifts
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: Internal Metabase Database
+- model: Schema
+  id: public
+- model: Table
+  id: report_card
+- model: Field
+  id: name
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-23T01:01:45.719076Z'
+last_used_at: '2023-08-23T01:01:45.719076Z'
+type: full

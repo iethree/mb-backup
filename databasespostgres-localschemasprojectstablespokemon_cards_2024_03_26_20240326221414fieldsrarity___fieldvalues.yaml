@@ -1,0 +1,54 @@
+values:
+- ACE SPEC Rare
+- Amazing Rare
+- Classic Collection
+- Common
+- Double Rare
+- Hyper Rare
+- Illustration Rare
+- LEGEND
+- Promo
+- Radiant Rare
+- Rare
+- Rare ACE
+- Rare BREAK
+- Rare Holo
+- Rare Holo EX
+- Rare Holo GX
+- Rare Holo LV.X
+- Rare Holo Star
+- Rare Holo V
+- Rare Holo VMAX
+- Rare Holo VSTAR
+- Rare Prime
+- Rare Prism Star
+- Rare Rainbow
+- Rare Secret
+- Rare Shining
+- Rare Shiny
+- Rare Shiny GX
+- Rare Ultra
+- Shiny Rare
+- Shiny Ultra Rare
+- Special Illustration Rare
+- Trainer Gallery Rare Holo
+- Ultra Rare
+- Uncommon
+- null
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: projects
+- model: Table
+  id: pokemon_cards_2024_03_26_20240326221414
+- model: Field
+  id: rarity
+- model: FieldValues
+  id: '0'
+created_at: '2024-03-26T22:14:19.691332Z'
+last_used_at: '2024-03-26T22:14:19.691332Z'
+type: full

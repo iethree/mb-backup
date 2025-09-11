@@ -1,0 +1,70 @@
+values:
+- 128 GB SSD
+- 128 GB SSD for Reduced Boot Up Time and In Game Loading
+- 15.6" FHD WVA AG Narrow Border 120Hz 250 nits
+- 16 GB DDR4 RAM
+- 1 TB HDD
+- 1 TB HDD|128 GB SSD
+- 1 TB HDD|1 TB SSD
+- 1 TB HDD|256 GB SSD
+- 1 TB HDD|512 GB SSD
+- 1 TB SSD
+- 256 GB HDD
+- 256 GB HDD|256 GB SSD
+- 256 GB SSD
+- 29.46 cm (11.6 inch) Display
+- 29.46 cm (11.6 Inch) Display
+- 29.46 cm (11.6 inch) Touchscreen Display
+- 2 TB HDD
+- 2 TB SSD
+- 2x USB 3.2 Gen1 ,1x USB 2.0, HDMI 1.4, SD Card reader, Audio jack, 1 M.2 2230/2280 Slot
+- 35.56 cm (14 Inch) Display
+- 35.56 cm (14 inch) Touchscreen Display
+- 35.56 cm (14 Inch) Touchscreen Display
+- 39.62 cm (15.6 inch) Display
+- 39.62 cm (15.6 inch) Touchscreen Display
+- 4 TB SSD
+- 512 GB HDD|512 GB SSD
+- 512 GB SSD
+- 64 bit Windows 10 Operating System
+- 64 bit Windows 11 Operating System
+- AMD Ryzen 5 Hexa Core Processor
+- AMD Ryzen 7 Octa Core Processor
+- Array Microphones to Filter Out Ambient Noise
+- 'Display: 14.0" FHD WVA AG Narrow Border'
+- 'Display: 14.0" FHD+ WVA Truelife Touch Narrow Border 250 nits, Dell Active Pen'
+- 'Display: 14.0" FHD WVA Truelife Touch Narrow Border 60Hz'
+- 'Display: 15.6" FHD WVA AG 120Hz 250 nits Narrow Border'
+- 'Display: 15.6" FHD WVA AG 165Hz 300 nits Narrow Border'
+- 'Display: 15.6" FHD WVA AG 250 nits 120Hz Narrow Border, Backlit Keyboard Orange'
+- 'Display: 15.6" FHD WVA AG 250 nits 120Hz Narrow Border, Keyboard & Warranty: Backlit Keyboard Orange & 1 Year Onsite Premium Support'
+- 'Display: 15.6" FHD WVA AG Narrow Border'
+- 'Display: 15.6" FHD WVA AG Narrow Border 120Hz 250 nits'
+- Dolby Plus Acer TrueHarmony Technology Offers Immersive Sound
+- Game shift key for Turbo boost of power
+- 'Graphics: Dedicated NVIDIA MX330 2GB GDDR5'
+- 'Graphics: Integrated, Keyboard: Backlit Keyboard + Fingerprint Reader'
+- Intel Core i5 Processor (11th Gen)
+- Light Laptop without Optical Disk Drive
+- Per-Key RGB Gaming Keyboard Helps in Customizing Each Key
+- 'Software & Keyboard: Win 11 + Office H&S 2021 & Backlit Keyboard Orange'
+- 'Software: Win 11 + Office H&S 2021'
+- Tobii-eye tracking to track head pose, presence, fine gaze and eye position
+- Upgradable SSD Upto 512 GB and RAM Upto 32 GB
+human_readable_values: []
+has_more_values: false
+hash_key: null
+serdes/meta:
+- model: Database
+  id: postgres-local
+- model: Schema
+  id: uploads
+- model: Table
+  id: laptops_20230612164440
+- model: Field
+  id: ssd
+- model: FieldValues
+  id: '0'
+created_at: '2023-08-21T20:31:59.985965Z'
+last_used_at: '2023-08-21T20:31:59.985965Z'
+type: full
